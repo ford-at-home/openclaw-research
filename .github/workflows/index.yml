@@ -1,0 +1,137 @@
+name: Rebuild Index & Notify
+
+on:
+  push:
+    branches: [main]
+    # Only run when actual research content changes, not when the
+    # Action itself commits the index/readme back.
+    paths-ignore:
+      - "index.json"
+      - "README.md"
+      - ".github/**"
+      - "scripts/**"
+
+permissions:
+  contents: write          # needed to commit index.json + README.md back
+  id-token: write          # needed for OIDC → AWS assume-role
+
+jobs:
+  rebuild-index:
+    name: Rebuild index and notify OpenClaw
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use the default GITHUB_TOKEN so the commit doesn't re-trigger
+          # this workflow (commits by Actions bot are excluded by default).
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build index.json and README.md
+        run: python scripts/build-index.py
+
+      - name: Commit updated index
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.json README.md
+          # Only commit if something actually changed
+          if git diff --cached --quiet; then
+            echo "Index unchanged — skipping commit"
+          else
+            git commit -m "chore: rebuild index [skip ci]"
+            git push
+          fi
+
+      # ── AWS / SSM notification ────────────────────────────────────────
+      # Assumes an IAM role via OIDC (no static credentials stored in Secrets).
+      # The role's trust policy must allow:
+      #   StringLike "token.actions.githubusercontent.com:sub":
+      #     "repo:ford-at-home/openclaw-research:ref:refs/heads/main"
+      #
+      # Required IAM permissions on the role:
+      #   - ssm:SendCommand on the EC2 instance
+      #   - ssm:GetCommandInvocation (for status checks)
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+          aws-region:     ${{ vars.AWS_REGION }}
+        # Skip if the role ARN isn't configured — notification is optional.
+        continue-on-error: true
+
+      - name: Extract metadata from pushed files
+        id: meta
+        run: |
+          # Find the most recently modified .md file (excluding infra files)
+          LATEST=$(git diff HEAD~1 --name-only 2>/dev/null \
+            | grep '\.md$' \
+            | grep -v -E '^(README|INDEX|TAXONOMY)' \
+            | head -1)
+
+          if [ -z "$LATEST" ]; then
+            echo "No research file in this push"
+            echo "title=New research published" >> "$GITHUB_OUTPUT"
+            echo "url=https://github.com/ford-at-home/openclaw-research" >> "$GITHUB_OUTPUT"
+            echo "summary=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Parse title from frontmatter (query field or title field)
+          TITLE=$(grep -m1 -E '^(title|query):' "$LATEST" \
+            | head -1 | sed 's/^[^:]*: *//' | tr -d '"' | head -c 120)
+          [ -z "$TITLE" ] && TITLE="$LATEST"
+
+          # Extract one-line summary (first non-empty, non-frontmatter line)
+          SUMMARY=$(python3 - <<'PYEOF'
+          import re, sys
+          text = open("$LATEST").read()
+          text = re.sub(r'^---.*?---\s*', '', text, flags=re.DOTALL).strip()
+          for p in text.split('\n\n'):
+              p = p.strip()
+              if p and not p.startswith('#'):
+                  print(p[:200])
+                  break
+          PYEOF
+          )
+
+          URL="https://github.com/ford-at-home/openclaw-research/blob/main/${LATEST}"
+
+          echo "title=${TITLE}" >> "$GITHUB_OUTPUT"
+          echo "url=${URL}"     >> "$GITHUB_OUTPUT"
+          echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
+
+      - name: Notify OpenClaw via SSM
+        if: ${{ vars.AWS_ROLE_ARN != '' && vars.EC2_INSTANCE_ID != '' }}
+        env:
+          TITLE:   ${{ steps.meta.outputs.title }}
+          URL:     ${{ steps.meta.outputs.url }}
+          SUMMARY: ${{ steps.meta.outputs.summary }}
+        run: |
+          MESSAGE="✅ research published
+
+topic: ${TITLE}
+link: ${URL}"
+
+          if [ -n "$SUMMARY" ]; then
+            MESSAGE="${MESSAGE}
+takeaway: ${SUMMARY}"
+          fi
+
+          aws ssm send-command \
+            --document-name "AWS-RunShellScript" \
+            --instance-ids  "${{ vars.EC2_INSTANCE_ID }}" \
+            --parameters "commands=[
+              \"openclaw message send --session main '${MESSAGE}' 2>/dev/null || true\"
+            ]" \
+            --comment "openclaw-research publish notification" \
+            --output text \
+            --query 'Command.CommandId'
+        continue-on-error: true
