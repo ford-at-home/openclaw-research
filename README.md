@@ -10,7 +10,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 16:34 UTC  
+**Last indexed:** 2026-04-10 16:35 UTC  
 **Total documents:** 6
 
 ## Recent Research
