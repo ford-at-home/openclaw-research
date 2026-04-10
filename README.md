@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 22:11 UTC  
-**Total documents:** 23
+**Last indexed:** 2026-04-10 22:48 UTC  
+**Total documents:** 28
 
 ## Recent Research
 
@@ -21,16 +21,20 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) — Ford engages with the Richmond tech community through workshops — both as a facilitator and as a learner. Workshops are 
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) — April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geo
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) — As of April 2026, Ford is interested in buying a Mac Mini to support personal projects. No purchase decision has been co
+- [Rio](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) — Ford's middle child.
 - [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) — Shawn is a friend of Ford's who lives in San Diego, CA. They stay in contact primarily by phone.
+- [Thaddeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thaddeus.md) — Ford's eldest child, commonly referred to as **Thaus**.
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) — OpenClaw is an AI/LLM-related tool that Ford is actively exploring. As of April 2026, he is participating in an OpenClaw
-- [Wesley](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md) — Wesley is a friend of Ford's who lives in Austin, Texas. They maintain their relationship primarily over the phone.
-- [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) — _Last updated: 2026-04-10T22:11:08Z_
 
 ## By Category
 
 ### personal (1)
 
 - [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) `2026-04-10`
+
+### richmond (1)
+
+- [Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety](https://github.com/ford-at-home/openclaw-research/blob/main/richmond/affordable-family-neighborhoods.md) `2026-04-10`
 
 ### uncategorized (2)
 
@@ -45,15 +49,18 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (15)
+### wiki (19)
 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) 
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) 
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) 
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) 
+- [Rio](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) 
 - [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) 
+- [Thaddeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thaddeus.md) 
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) 
+- [Trixie](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/trixie.md) 
 - [Wesley](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md) 
 - [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) 
 - [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md) 
@@ -62,6 +69,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — OK, so also add that I have 3](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-201027-153.md) 
 - [Voice memo — I have some more friends too, um](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-204442-157.md) 
 - [Voice memo — I had a knowledge base entry that](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-221032-174.md) 
+- [Voice memo — I have 3 kids](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-224716-188.md) 
 
 ## Tags
 

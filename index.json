@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T22:11:23Z",
-  "total": 23,
+  "last_synchronized": "2026-04-10T22:48:21Z",
+  "total": 28,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -100,6 +100,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/hardware/mac-mini.md"
     },
     {
+      "filename": "wiki/entity/rio.md",
+      "title": "Rio",
+      "query": "Rio",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's middle child.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/rio.md"
+    },
+    {
       "filename": "wiki/entity/shawn.md",
       "title": "Shawn",
       "query": "Shawn",
@@ -116,6 +132,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/shawn.md"
     },
     {
+      "filename": "wiki/entity/thaddeus.md",
+      "title": "Thaddeus",
+      "query": "Thaddeus",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's eldest child, commonly referred to as **Thaus**.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thaddeus.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/thaddeus.md"
+    },
+    {
       "filename": "wiki/entity/tool/openclaw.md",
       "title": "OpenClaw",
       "query": "OpenClaw",
@@ -130,6 +162,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/tool/openclaw.md"
+    },
+    {
+      "filename": "wiki/entity/trixie.md",
+      "title": "Trixie",
+      "query": "Trixie",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's youngest child.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/trixie.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/trixie.md"
     },
     {
       "filename": "wiki/entity/wesley.md",
@@ -158,7 +206,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-10T22:11:08Z_",
+      "summary": "_Last updated: 2026-04-10T22:48:11Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -260,6 +308,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-221032-174.md"
     },
     {
+      "filename": "wiki/source/2026-04-10-224716-188.md",
+      "title": "Voice memo — I have 3 kids",
+      "query": "Voice memo — I have 3 kids",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford describes his three children: Thaddeus (nicknamed Thaus), age 11, born 2014, who loves robotics; Rio, age 7, born 2018 in Lagos, who loves basketball and soccer; and Trixie, age 5, born 2021, who loves unicorns, rainbows, and riding her scooter.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-224716-188.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-224716-188.md"
+    },
+    {
       "filename": "origin-of-life.md",
       "title": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",
       "query": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",
@@ -296,6 +360,22 @@
       ],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
+    },
+    {
+      "filename": "richmond/affordable-family-neighborhoods.md",
+      "title": "Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety",
+      "query": "Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety",
+      "processor": "ultra-fast",
+      "date": "2026-04-10",
+      "category": "richmond",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_622eae3ab32c426abb20d9976f78009d",
+      "summary": "{\n  \"executive_summary\": \"For families seeking the best overall balance of affordability, school quality, and safety in the Richmond, Virginia metro area, the suburban neighborhoods of Short Pump and Glen Allen in Henrico County stand out as top choi",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/richmond/affordable-family-neighborhoods.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/richmond/affordable-family-neighborhoods.md"
     },
     {
       "filename": "voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md",
