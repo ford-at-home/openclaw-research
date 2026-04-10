@@ -10,12 +10,17 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 20:07 UTC  
-**Total documents:** 9
+**Last indexed:** 2026-04-10 20:08 UTC  
+**Total documents:** 14
 
 ## Recent Research
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.
+- [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) — Ford engages with the Richmond tech community through workshops — both as a facilitator and as a learner. Workshops are 
+- [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) — As of April 2026, Ford is interested in buying a Mac Mini to support personal projects. No purchase decision has been co
+- [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) — OpenClaw is an AI/LLM-related tool that Ford is actively exploring. As of April 2026, he is participating in an OpenClaw
+- [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) — _Last updated: 2026-04-10T20:08:00Z_
+- [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md) — Ford notes two things to add to his wiki: (1) he is participating in or running an OpenClaw workshop and is actively try
 - [Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md) — _Integration pass pending._
 - [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200646-138.md) — _Integration pass pending._
 - [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) — {
@@ -24,10 +29,6 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - Age: 37
 - Location: Richmond, VA (born and raised)
 - Contact: Telegram (@ford_c
-- [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md) — Research for me the origin of life.
-- [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md) — OK, so let's test it. My name is Ford Pryor. And I'm 37 years old, born and raised in Richmond, Virginia.
-- [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md) — Uh, let's see what happens when you say, when you add in, That I also. Like kombucha. Or bingo lager. With my deviled eg
-- [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) — Testing, testing. 123. My name is Ford and I live in Richmond.
 
 ## By Category
 
@@ -47,8 +48,13 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (2)
+### wiki (7)
 
+- [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) 
+- [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) 
+- [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) 
+- [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) 
+- [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md) 
 - [Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md) 
 - [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200646-138.md) 
 
