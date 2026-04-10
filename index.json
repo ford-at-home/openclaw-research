@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T20:45:49Z",
-  "total": 20,
+  "last_synchronized": "2026-04-10T22:10:25Z",
+  "total": 21,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -318,6 +318,24 @@
       ],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md",
+      "title": "Voice note — Hey, can you research",
+      "query": "Voice note — Hey, can you research",
+      "processor": "unknown",
+      "date": "2026-04-10",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Hey, can you research? Um, great places to raise families. Um, that aren't too expensive in Richmond, Virginia. That are. Affordable",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md"
     },
     {
       "filename": "voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md",
