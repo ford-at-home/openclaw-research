@@ -11,7 +11,7 @@ Research multiple topics in parallel and add all documents to the library.
 
 ## Instructions
 
-You are adding multiple research documents to the library at `/Users/williamprior/Development/GitHub/openclaw-research/`.
+You are adding multiple research documents to the library at `/Users/williamprior/Development/GitHub/openclaw/openclaw-research/`.
 
 ### Step 1: Parse Topics
 

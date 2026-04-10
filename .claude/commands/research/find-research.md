@@ -13,7 +13,7 @@ Search the research library by keyword, tag, category, or topic.
 
 ## Instructions
 
-You are searching the research library at `/Users/williamprior/Development/GitHub/openclaw-research/`.
+You are searching the research library at `/Users/williamprior/Development/GitHub/openclaw/openclaw-research/`.
 
 ### Step 1: Parse the Query
 

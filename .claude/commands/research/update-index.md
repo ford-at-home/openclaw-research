@@ -6,7 +6,7 @@ Rebuild INDEX.md by scanning all research documents in the library.
 
 ## Instructions
 
-You are rebuilding the research index at `/Users/williamprior/Development/GitHub/openclaw-research/INDEX.md`.
+You are rebuilding the research index at `/Users/williamprior/Development/GitHub/openclaw/openclaw-research/INDEX.md`.
 
 ### Step 1: Scan All Documents
 

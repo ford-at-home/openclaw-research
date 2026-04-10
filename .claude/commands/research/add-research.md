@@ -11,7 +11,7 @@ Research a topic and add a structured document to the library.
 
 ## Instructions
 
-You are adding a research document to the research library at `/Users/williamprior/Development/GitHub/openclaw-research/`.
+You are adding a research document to the research library at `/Users/williamprior/Development/GitHub/openclaw/openclaw-research/`.
 
 ### Step 1: Parse Input
 
