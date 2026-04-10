@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-10T22:11:08Z"
+last_updated: "2026-04-10T22:48:11Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-10T22:11:08Z_
+_Last updated: 2026-04-10T22:48:11Z_
 
 ## Sources
 
@@ -15,6 +15,7 @@ _Last updated: 2026-04-10T22:11:08Z_
 - [Voice memo — OK, so also add that I have 3](wiki/source/2026-04-10-201027-153.md)
 - [Voice memo — I have some more friends too, um](wiki/source/2026-04-10-204442-157.md)
 - [Voice memo — I had a knowledge base entry that](wiki/source/2026-04-10-221032-174.md)
+- [Voice memo — I have 3 kids](wiki/source/2026-04-10-224716-188.md)
 
 ## Concepts
 
@@ -25,7 +26,10 @@ _Last updated: 2026-04-10T22:11:08Z_
 ## Entities
 
 - [April](wiki/entity/april.md)
+- [Rio](wiki/entity/rio.md)
 - [Shawn](wiki/entity/shawn.md)
+- [Thaddeus](wiki/entity/thaddeus.md)
+- [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 
-**Total pages:** 11
+**Total pages:** 15
