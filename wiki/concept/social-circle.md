@@ -1,38 +1,45 @@
 ---
 page_type: concept
 title: "Social Circle"
-last_updated: "2026-04-10T20:10:27Z"
+last_updated: "2026-04-10T20:44:42Z"
 domain: personal-life
 subdomain: relationships
 tags:
-  - friends
+  - close-friends
   - social-life
-  - community
+  - remote-friends
+  - common-house
+  - richmond
 sources:
-  - wiki/source/2026-04-10-201027-153.md
+  - wiki/source/2026-04-10-204442-157.md
 ---
 
 # Social Circle
 
-## Overview
+Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San Diego).
 
-Ford has described having a close group of **3 friends**. This page tracks what is known about his personal social circle outside of family and professional contexts.
+## Members
 
-## Known Members
+| Name | Location | Contact Mode | Frequency |
+|------|----------|-------------|----------|
+| [April](wiki/entity/april.md) | Richmond, VA | In-person | High — often at Common House |
+| [Wesley](wiki/entity/wesley.md) | Austin, TX | Phone | Intermittent |
+| [Shawn](wiki/entity/shawn.md) | San Diego, CA | Phone | Intermittent |
 
-| Name | Notes |
-|------|-------|
-| [April](wiki/entity/april.md) | Named explicitly as one of 3 friends |
-| [Wesley](wiki/entity/wesley.md) | Named explicitly as one of 3 friends |
-| *(unnamed)* | Third friend mentioned but not named in available transcript |
+## Patterns
+
+- **Local vs. remote split:** April is the only local friend and receives the most attention by default; Wesley and Wesley are maintained remotely.
+- **Common House as social hub:** April and Ford frequently connect at Common House, making it a key node in Ford's social life.
+- **Self-awareness around remote maintenance:** Ford has noted he's not great at keeping up with Shawn and Wesley — this is a recurring acknowledgment, not a resolved item.
+- **Best friend designation:** April is explicitly called one of Ford's best friends.
 
 ## Open Questions
 
-- Identity of the third friend.
-- How and where these friendships formed (Richmond community, BJJ, tech scene, etc.).
-- Whether this group overlaps with Ford's community or professional networks.
+- Does Ford want to invest more intentionally in remote friendships with Shawn and Wesley?
+- Are there other friends not yet mentioned?
 
 ## Related Pages
 
 - [April](wiki/entity/april.md)
 - [Wesley](wiki/entity/wesley.md)
+- [Shawn](wiki/entity/shawn.md)

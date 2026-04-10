@@ -1,33 +1,36 @@
 ---
 page_type: entity
 title: "April"
-last_updated: "2026-04-10T20:10:27Z"
+last_updated: "2026-04-10T20:44:42Z"
 domain: personal-life
 subdomain: relationships
 tags:
-  - friend
+  - close-friend
+  - best-friend
+  - richmond
+  - common-house
   - social-circle
 sources:
-  - wiki/source/2026-04-10-201027-153.md
+  - wiki/source/2026-04-10-204442-157.md
 ---
 
 # April
 
-## Overview
+April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geographically proximate of his named social circle.
 
-April is one of Ford Prior's close friends. Ford identifies her as part of a group of 3 friends.
+## Key Facts
 
-## Known Details
+- **Location:** Richmond, VA
+- **Relationship type:** Close friend; explicitly described by Ford as one of his best friends.
+- **Where they connect:** Common House — Ford sees her there regularly.
+- **Contact frequency:** High; seen in person often, more than other named friends.
 
-- Named alongside **Wesley** as one of Ford's 3 friends.
-- No additional details known at this time.
+## Notes
 
-## Open Questions
-
-- Last name unknown.
-- Context of relationship (Richmond local, professional, personal) unknown.
+- Among Ford's named friends (April, Wesley, Shawn), April is the one he maintains the most active in-person relationship with.
+- Common House appears to be a recurring venue for their meetups.
 
 ## Related Pages
 
-- [Wesley](wiki/entity/wesley.md)
 - [Social Circle](wiki/concept/social-circle.md)
+- [Common House](wiki/entity/common-house.md) *(if created)*
