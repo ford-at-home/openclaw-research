@@ -10,12 +10,13 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 22:10 UTC  
-**Total documents:** 21
+**Last indexed:** 2026-04-10 22:11 UTC  
+**Total documents:** 23
 
 ## Recent Research
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.
+- [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is currently in the market to buy a home. This page tracks intent, context, and any details that emerge over time a
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) — Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San D
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) — Ford engages with the Richmond tech community through workshops — both as a facilitator and as a learner. Workshops are 
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) — April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geo
@@ -23,8 +24,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) — Shawn is a friend of Ford's who lives in San Diego, CA. They stay in contact primarily by phone.
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) — OpenClaw is an AI/LLM-related tool that Ford is actively exploring. As of April 2026, he is participating in an OpenClaw
 - [Wesley](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md) — Wesley is a friend of Ford's who lives in Austin, Texas. They maintain their relationship primarily over the phone.
-- [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) — _Last updated: 2026-04-10T20:45:36Z_
-- [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md) — Ford notes two things to add to his wiki: (1) he is participating in or running an OpenClaw workshop and is actively try
+- [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) — _Last updated: 2026-04-10T22:11:08Z_
 
 ## By Category
 
@@ -45,8 +45,9 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (13)
+### wiki (15)
 
+- [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) 
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) 
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) 
@@ -60,6 +61,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200646-138.md) 
 - [Voice memo — OK, so also add that I have 3](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-201027-153.md) 
 - [Voice memo — I have some more friends too, um](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-204442-157.md) 
+- [Voice memo — I had a knowledge base entry that](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-221032-174.md) 
 
 ## Tags
 

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T22:10:25Z",
-  "total": 21,
+  "last_synchronized": "2026-04-10T22:11:23Z",
+  "total": 23,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -18,6 +18,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/CLAUDE.md"
+    },
+    {
+      "filename": "wiki/concept/home-buying-search.md",
+      "title": "Home-Buying Search",
+      "query": "Home-Buying Search",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "concept",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford is currently in the market to buy a home. This page tracks intent, context, and any details that emerge over time about his housing search.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/home-buying-search.md"
     },
     {
       "filename": "wiki/concept/social-circle.md",
@@ -142,7 +158,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-10T20:45:36Z_",
+      "summary": "_Last updated: 2026-04-10T22:11:08Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -226,6 +242,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-204442-157.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-204442-157.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-10-221032-174.md",
+      "title": "Voice memo — I had a knowledge base entry that",
+      "query": "Voice memo — I had a knowledge base entry that",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford notes that his knowledge base already has (or should have) an entry reflecting that he is currently actively looking to buy a home.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-221032-174.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-221032-174.md"
     },
     {
       "filename": "origin-of-life.md",
