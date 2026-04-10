@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T20:04:15Z",
-  "total": 8,
+  "last_synchronized": "2026-04-10T20:07:17Z",
+  "total": 9,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -34,6 +34,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-200349-135.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-10-200646-138.md",
+      "title": "Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about",
+      "query": "Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "_Integration pass pending._",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200646-138.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-200646-138.md"
     },
     {
       "filename": "origin-of-life.md",
