@@ -18,10 +18,11 @@ source: conversation
 ## Food & Places
 
 - Loves deviled eggs at Common House (Richmond, VA)
+- Usually has them for lunch, with friends
+- Drinks kombucha or Bingo Lager with deviled eggs
 
 ## Preferences
 
 - Direct answers, no sugarcoating
 - No corporate tone or hedging
 - Appreciates wit, not forced jokes
- 
