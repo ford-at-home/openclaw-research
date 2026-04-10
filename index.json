@@ -1,6 +1,99 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-09T11:08:45Z",
-  "total": 0,
-  "corpus": []
+  "last_synchronized": "2026-04-10T16:14:50Z",
+  "total": 5,
+  "corpus": [
+    {
+      "filename": "origin-of-life.md",
+      "title": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",
+      "query": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",
+      "processor": "ultra-fast",
+      "date": "2026-04-10",
+      "category": "uncategorized",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_622eae3ab32c426abf3bb132cd5fe099",
+      "summary": "{\n  \"executive_summary\": \"The current scientific understanding of the origin of life, or abiogenesis, has moved from singular, competing hypotheses toward integrated, hybrid models that acknowledge the complexity of the chemistry-to-biology transitio",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/origin-of-life.md"
+    },
+    {
+      "filename": "personal/will-prior.md",
+      "title": "Will Prior — Personal Profile",
+      "query": "Will Prior — Personal Profile",
+      "processor": "unknown",
+      "date": "2026-04-10",
+      "category": "personal",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "- Name: Will Prior (also goes by Ford)\n- Age: 37\n- Location: Richmond, VA (born and raised)\n- Contact: Telegram (@ford_clawbot)",
+      "tags": [
+        "will",
+        "profile",
+        "richmond",
+        "food",
+        "preferences"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md",
+      "title": "Voice note — Research for me the origin of life",
+      "query": "Voice note — Research for me the origin of life",
+      "processor": "unknown",
+      "date": "2026-04-10",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Research for me the origin of life.",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md",
+      "title": "Voice note — OK, so let's test it",
+      "query": "Voice note — OK, so let's test it",
+      "processor": "unknown",
+      "date": "2026-04-10",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "OK, so let's test it. My name is Ford Pryor. And I'm 37 years old, born and raised in Richmond, Virginia.",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md",
+      "title": "Voice note — Testing, testing",
+      "query": "Voice note — Testing, testing",
+      "processor": "unknown",
+      "date": "2026-04-09",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Testing, testing. 123. My name is Ford and I live in Richmond.",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md"
+    }
+  ]
 }

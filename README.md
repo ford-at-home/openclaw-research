@@ -10,8 +10,45 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-09 11:08 UTC  
-**Total documents:** 0
+**Last indexed:** 2026-04-10 16:14 UTC  
+**Total documents:** 5
+
+## Recent Research
+
+- [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) — {
+  "executive_summary": "The current scientific understanding of the origin of life, or abiogenesis, has moved from sin
+- [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) — - Name: Will Prior (also goes by Ford)
+- Age: 37
+- Location: Richmond, VA (born and raised)
+- Contact: Telegram (@ford_c
+- [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md) — Research for me the origin of life.
+- [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md) — OK, so let's test it. My name is Ford Pryor. And I'm 37 years old, born and raised in Richmond, Virginia.
+- [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) — Testing, testing. 123. My name is Ford and I live in Richmond.
+
+## By Category
+
+### personal (1)
+
+- [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) `2026-04-10`
+
+### uncategorized (1)
+
+- [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) `2026-04-10`
+
+### voice-notes (3)
+
+- [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md) `2026-04-10`
+- [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md) `2026-04-10`
+- [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
+
+## Tags
+
+**food** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+**preferences** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+**profile** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+**richmond** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+**voice-note** — [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md), [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md)
+**will** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
 
 ## Structure
 
