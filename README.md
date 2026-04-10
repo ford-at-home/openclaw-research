@@ -10,12 +10,13 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 16:43 UTC  
-**Total documents:** 7
+**Last indexed:** 2026-04-10 20:04 UTC  
+**Total documents:** 8
 
 ## Recent Research
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.
+- [Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md) — _Integration pass pending._
 - [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) — {
   "executive_summary": "The current scientific understanding of the origin of life, or abiogenesis, has moved from sin
 - [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) — - Name: Will Prior (also goes by Ford)
@@ -44,6 +45,10 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md) `2026-04-10`
 - [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
+
+### wiki (1)
+
+- [Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md) 
 
 ## Tags
 

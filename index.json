@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T16:43:29Z",
-  "total": 7,
+  "last_synchronized": "2026-04-10T20:04:15Z",
+  "total": 8,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -18,6 +18,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/CLAUDE.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-10-200349-135.md",
+      "title": "Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki",
+      "query": "Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "_Integration pass pending._",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-200349-135.md"
     },
     {
       "filename": "origin-of-life.md",
