@@ -1,8 +1,24 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T16:35:03Z",
-  "total": 6,
+  "last_synchronized": "2026-04-10T16:43:29Z",
+  "total": 7,
   "corpus": [
+    {
+      "filename": "CLAUDE.md",
+      "title": "Claude",
+      "query": "Claude",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "uncategorized",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/CLAUDE.md"
+    },
     {
       "filename": "origin-of-life.md",
       "title": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",

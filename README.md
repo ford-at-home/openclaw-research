@@ -10,11 +10,12 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 16:35 UTC  
-**Total documents:** 6
+**Last indexed:** 2026-04-10 16:43 UTC  
+**Total documents:** 7
 
 ## Recent Research
 
+- [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.
 - [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) — {
   "executive_summary": "The current scientific understanding of the origin of life, or abiogenesis, has moved from sin
 - [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) — - Name: Will Prior (also goes by Ford)
@@ -32,8 +33,9 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 
 - [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) `2026-04-10`
 
-### uncategorized (1)
+### uncategorized (2)
 
+- [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) 
 - [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) `2026-04-10`
 
 ### voice-notes (4)
