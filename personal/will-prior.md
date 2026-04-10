@@ -26,3 +26,7 @@ source: conversation
 - Direct answers, no sugarcoating
 - No corporate tone or hedging
 - Appreciates wit, not forced jokes
+
+## Fitness & Outdoors
+
+- Runs trails in the James River Park System (Richmond, VA)
