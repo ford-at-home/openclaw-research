@@ -90,9 +90,9 @@ jobs:
           [ -z "$TITLE" ] && TITLE="$LATEST"
 
           # Extract one-line summary (first non-empty, non-frontmatter line)
-          SUMMARY=$(python3 - <<'PYEOF'
+          SUMMARY=$(python3 - "$LATEST" <<'PYEOF'
           import re, sys
-          text = open("$LATEST").read()
+          text = open(sys.argv[1]).read()
           text = re.sub(r'^---.*?---\s*', '', text, flags=re.DOTALL).strip()
           for p in text.split('\n\n'):
               p = p.strip()
