@@ -24,14 +24,51 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Use the default GITHUB_TOKEN so the commit doesn't re-trigger
-          # this workflow (commits by Actions bot are excluded by default).
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Extract metadata from pushed files
+        id: meta
+        run: |
+          LATEST=$(git diff HEAD~1 --name-only 2>/dev/null \
+            | grep '\.md$' \
+            | grep -v -E '^(README|INDEX|TAXONOMY)' \
+            | head -1)
+
+          if [ -z "$LATEST" ]; then
+            echo "No research file in this push"
+            echo "title=New research published" >> "$GITHUB_OUTPUT"
+            echo "url=https://github.com/ford-at-home/openclaw-research" >> "$GITHUB_OUTPUT"
+            echo "summary=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          TITLE=$(grep -m1 -E '^(title|query):' "$LATEST" \
+            | head -1 | sed 's/^[^:]*: *//' | tr -d '"' | head -c 120)
+          [ -z "$TITLE" ] && TITLE="$LATEST"
+
+          SUMMARY=$(python3 - "$LATEST" <<'PYEOF'
+          import re, sys
+          text = open(sys.argv[1]).read()
+          text = re.sub(r'^---.*?---\s*', '', text, flags=re.DOTALL).strip()
+          for p in text.split('\n\n'):
+              p = p.strip()
+              if p and not p.startswith('#'):
+                  print(p[:200])
+                  break
+          PYEOF
+          )
+
+          URL="https://github.com/ford-at-home/openclaw-research/blob/main/${LATEST}"
+
+          echo "title=${TITLE}" >> "$GITHUB_OUTPUT"
+          echo "url=${URL}"     >> "$GITHUB_OUTPUT"
+          echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
 
       - name: Build index.json and README.md
         run: python scripts/build-index.py
@@ -41,11 +78,11 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add index.json README.md
-          # Only commit if something actually changed
           if git diff --cached --quiet; then
             echo "Index unchanged — skipping commit"
           else
             git commit -m "chore: rebuild index [skip ci]"
+            git pull --rebase origin main || true
             git push
           fi
 
@@ -64,49 +101,7 @@ jobs:
         with:
           role-to-assume: ${{ vars.AWS_ROLE_ARN }}
           aws-region:     ${{ vars.AWS_REGION }}
-        # Skip if the role ARN isn't configured — notification is optional.
         continue-on-error: true
-
-      - name: Extract metadata from pushed files
-        id: meta
-        run: |
-          # Find the most recently modified .md file (excluding infra files)
-          LATEST=$(git diff HEAD~1 --name-only 2>/dev/null \
-            | grep '\.md$' \
-            | grep -v -E '^(README|INDEX|TAXONOMY)' \
-            | head -1)
-
-          if [ -z "$LATEST" ]; then
-            echo "No research file in this push"
-            echo "title=New research published" >> "$GITHUB_OUTPUT"
-            echo "url=https://github.com/ford-at-home/openclaw-research" >> "$GITHUB_OUTPUT"
-            echo "summary=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          # Parse title from frontmatter (query field or title field)
-          TITLE=$(grep -m1 -E '^(title|query):' "$LATEST" \
-            | head -1 | sed 's/^[^:]*: *//' | tr -d '"' | head -c 120)
-          [ -z "$TITLE" ] && TITLE="$LATEST"
-
-          # Extract one-line summary (first non-empty, non-frontmatter line)
-          SUMMARY=$(python3 - "$LATEST" <<'PYEOF'
-          import re, sys
-          text = open(sys.argv[1]).read()
-          text = re.sub(r'^---.*?---\s*', '', text, flags=re.DOTALL).strip()
-          for p in text.split('\n\n'):
-              p = p.strip()
-              if p and not p.startswith('#'):
-                  print(p[:200])
-                  break
-          PYEOF
-          )
-
-          URL="https://github.com/ford-at-home/openclaw-research/blob/main/${LATEST}"
-
-          echo "title=${TITLE}" >> "$GITHUB_OUTPUT"
-          echo "url=${URL}"     >> "$GITHUB_OUTPUT"
-          echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
 
       - name: Notify OpenClaw via SSM
         if: ${{ vars.AWS_ROLE_ARN != '' && vars.EC2_INSTANCE_ID != '' }}
