@@ -119,3 +119,4 @@ This defines the canonical category/subcategory structure. All research document
 ## Cross-cutting Research
 
 If research spans multiple categories, file it under the **primary** category and add tags for the secondary ones. The index and search skill handle cross-references via tags.
+
