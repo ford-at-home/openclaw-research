@@ -115,14 +115,10 @@ jobs:
           URL:     ${{ steps.meta.outputs.url }}
           SUMMARY: ${{ steps.meta.outputs.summary }}
         run: |
-          MESSAGE="✅ research published
-
-topic: ${TITLE}
-link: ${URL}"
+          MESSAGE=$(printf '✅ research published\n\ntopic: %s\nlink: %s' "${TITLE}" "${URL}")
 
           if [ -n "$SUMMARY" ]; then
-            MESSAGE="${MESSAGE}
-takeaway: ${SUMMARY}"
+            MESSAGE=$(printf '%s\ntakeaway: %s' "${MESSAGE}" "${SUMMARY}")
           fi
 
           aws ssm send-command \
