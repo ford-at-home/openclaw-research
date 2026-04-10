@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T20:11:38Z",
-  "total": 18,
+  "last_synchronized": "2026-04-10T20:45:49Z",
+  "total": 20,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -30,7 +30,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford has described having a close group of **3 friends**. This page tracks what is known about his personal social circle outside of family and professional contexts.",
+      "summary": "Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San Diego).",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/social-circle.md"
@@ -62,7 +62,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "April is one of Ford Prior's close friends. Ford identifies her as part of a group of 3 friends.",
+      "summary": "April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geographically proximate of his named social circle.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/april.md"
@@ -82,6 +82,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/hardware/mac-mini.md"
+    },
+    {
+      "filename": "wiki/entity/shawn.md",
+      "title": "Shawn",
+      "query": "Shawn",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Shawn is a friend of Ford's who lives in San Diego, CA. They stay in contact primarily by phone.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/shawn.md"
     },
     {
       "filename": "wiki/entity/tool/openclaw.md",
@@ -110,7 +126,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Wesley is one of Ford Prior's close friends. Ford identifies him as part of a group of 3 friends.",
+      "summary": "Wesley is a friend of Ford's who lives in Austin, Texas. They maintain their relationship primarily over the phone.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/wesley.md"
@@ -126,7 +142,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-10T20:11:26Z_",
+      "summary": "_Last updated: 2026-04-10T20:45:36Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -194,6 +210,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-201027-153.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-201027-153.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-10-204442-157.md",
+      "title": "Voice memo — I have some more friends too, um",
+      "query": "Voice memo — I have some more friends too, um",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford describes three close friends: Shawn (San Diego), Wesley (Austin, TX), and April (Richmond, VA). April is seen most often — frequently at Common House — and is described as one of Ford's best friends. Shawn and Wesley are maintained primarily vi",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-204442-157.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-204442-157.md"
     },
     {
       "filename": "origin-of-life.md",
