@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-10T22:48:11Z"
+last_updated: "2026-04-11T03:13:30Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-10T22:48:11Z_
+_Last updated: 2026-04-11T03:13:30Z_
 
 ## Sources
 
@@ -16,10 +16,12 @@ _Last updated: 2026-04-10T22:48:11Z_
 - [Voice memo — I have some more friends too, um](wiki/source/2026-04-10-204442-157.md)
 - [Voice memo — I had a knowledge base entry that](wiki/source/2026-04-10-221032-174.md)
 - [Voice memo — I have 3 kids](wiki/source/2026-04-10-224716-188.md)
+- [Voice memo — Add that I Don't really love movies](wiki/source/2026-04-11-031252-194.md)
 
 ## Concepts
 
 - [Home-Buying Search](wiki/concept/home-buying-search.md)
+- [Media Preferences](wiki/concept/media-preferences.md)
 - [Social Circle](wiki/concept/social-circle.md)
 - [Workshop Hosting & Participation](wiki/concept/workshop-hosting.md)
 
@@ -32,4 +34,4 @@ _Last updated: 2026-04-10T22:48:11Z_
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 
-**Total pages:** 15
+**Total pages:** 17
