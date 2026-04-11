@@ -1,6 +1,6 @@
 ---
 page_type: entity
-title: "Thaddeus"
+title: "Thadeus"
 alias: "Thaus"
 last_updated: "2026-04-10T22:47:16Z"
 domain: personal-life
@@ -13,7 +13,7 @@ sources:
   - wiki/source/2026-04-10-224716-188.md
 ---
 
-# Thaddeus
+# Thadeus
 
 Ford's eldest child, commonly referred to as **Thaus**.
 
@@ -21,6 +21,7 @@ Ford's eldest child, commonly referred to as **Thaus**.
 
 - **Age:** 11 (as of 2026)
 - **Birth year:** 2014
+- **Birthplace:** Richmond, VA
 - **Interests:** Robotics
 
 ## Notes

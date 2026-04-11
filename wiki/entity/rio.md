@@ -9,7 +9,6 @@ tags:
   - family
   - basketball
   - soccer
-  - lagos
 sources:
   - wiki/source/2026-04-10-224716-188.md
 ---
@@ -22,15 +21,14 @@ Ford's middle child.
 
 - **Age:** 7 (as of 2026)
 - **Birth year:** 2018
-- **Birthplace:** Lagos, Nigeria
+- **Birthplace:** Richmond, VA
 - **Interests:** Basketball, soccer
 
 ## Notes
 
-- Rio being born in Lagos raises questions about Ford's time in Nigeria — worth exploring if travel or residency context surfaces in future memos.
 - Sports-oriented; may be involved in youth leagues.
 
 ## Related Pages
 
-- [Thaddeus](wiki/entity/thaddeus.md)
+- [Thadeus](wiki/entity/thadeus.md)
 - [Trixie](wiki/entity/trixie.md)

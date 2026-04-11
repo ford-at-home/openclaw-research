@@ -28,7 +28,7 @@ Ford is currently in the market to buy a home. This page tracks intent, context,
 ## Open Questions
 
 - What is his target price range or mortgage budget?
-- Any specific neighborhoods or proximity requirements (schools for Thaddeus, Rio, Trixie; commute to GEICO; community fit)?
+- Any specific neighborhoods or proximity requirements (schools for Thadeus, Rio, Trixie; commute to GEICO; community fit)?
 - Is there a target timeline for closing?
 - Working with a realtor?
 

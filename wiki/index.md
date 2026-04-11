@@ -28,7 +28,7 @@ _Last updated: 2026-04-10T22:48:11Z_
 - [April](wiki/entity/april.md)
 - [Rio](wiki/entity/rio.md)
 - [Shawn](wiki/entity/shawn.md)
-- [Thaddeus](wiki/entity/thaddeus.md)
+- [Thadeus](wiki/entity/thadeus.md)
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 

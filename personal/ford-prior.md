@@ -1,16 +1,16 @@
 ---
-title: "Will Prior — Personal Profile"
+title: "Ford Prior — Personal Profile"
 category: personal
-tags: [will, profile, richmond, food, preferences]
+tags: [ford, profile, richmond, food, preferences]
 date: "2026-04-10"
 source: conversation
 ---
 
-# Will Prior
+# Ford Prior
 
 ## Identity
 
-- Name: Will Prior (also goes by Ford)
+- Name: Ford Prior
 - Age: 37
 - Location: Richmond, VA (born and raised)
 - Contact: Telegram (@ford_clawbot)

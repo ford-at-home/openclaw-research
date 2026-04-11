@@ -20,14 +20,14 @@ Ford's youngest child.
 
 - **Age:** 5 (as of 2026)
 - **Birth year:** 2021
+- **Birthplace:** Richmond, VA
 - **Interests:** Unicorns, rainbows, running, riding her scooter
 
 ## Notes
 
 - Youngest of three siblings; imaginative and physically active.
-- Ford's tone when describing her suggests warmth and delight.
 
 ## Related Pages
 
-- [Thaddeus](wiki/entity/thaddeus.md)
+- [Thadeus](wiki/entity/thadeus.md)
 - [Rio](wiki/entity/rio.md)
