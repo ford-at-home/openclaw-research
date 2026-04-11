@@ -48,27 +48,43 @@ jobs:
             exit 0
           fi
 
-          TITLE=$(grep -m1 -E '^(title|query):' "$LATEST" \
-            | head -1 | sed 's/^[^:]*: *//' | tr -d '"' | head -c 120)
-          [ -z "$TITLE" ] && TITLE="$LATEST"
+          TITLE=$(python3 -c "
+          import re, sys
+          text = open(sys.argv[1]).read()
+          fm = re.match(r'^---\s*\n(.*?)\n---', text, re.DOTALL)
+          if fm:
+              for line in fm.group(1).splitlines():
+                  for key in ('title:', 'query:'):
+                      if line.strip().startswith(key):
+                          print(line.split(':', 1)[1].strip().strip('\"')[:120])
+                          sys.exit(0)
+          print(sys.argv[1])
+          " "$LATEST")
 
-          SUMMARY=$(python3 - "$LATEST" <<'PYEOF'
+          SUMMARY=$(python3 -c "
           import re, sys
           text = open(sys.argv[1]).read()
           text = re.sub(r'^---.*?---\s*', '', text, flags=re.DOTALL).strip()
           for p in text.split('\n\n'):
               p = p.strip()
               if p and not p.startswith('#'):
-                  print(p[:200])
+                  print(p[:200].replace('\n', ' '))
                   break
-          PYEOF
-          )
+          " "$LATEST")
 
           URL="https://github.com/ford-at-home/openclaw-research/blob/main/${LATEST}"
 
-          echo "title=${TITLE}" >> "$GITHUB_OUTPUT"
-          echo "url=${URL}"     >> "$GITHUB_OUTPUT"
-          echo "summary=${SUMMARY}" >> "$GITHUB_OUTPUT"
+          {
+            echo "title<<GHEOF"
+            echo "$TITLE"
+            echo "GHEOF"
+          } >> "$GITHUB_OUTPUT"
+          echo "url=${URL}" >> "$GITHUB_OUTPUT"
+          {
+            echo "summary<<GHEOF"
+            echo "$SUMMARY"
+            echo "GHEOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Build index.json and README.md
         run: python scripts/build-index.py
