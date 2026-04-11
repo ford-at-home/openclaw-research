@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-11 03:13 UTC  
-**Total documents:** 31
+**Last indexed:** 2026-04-11 03:15 UTC  
+**Total documents:** 32
 
 ## Recent Research
 
@@ -39,6 +39,10 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 ### personal (1)
 
 - [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-10`
+
+### richmond (1)
+
+- [Best places to rent a house in Richmond Virginia under 2000 per month - downtown or walkable urban neighborhoods, kid-friendly, close to city life and amenities](https://github.com/ford-at-home/openclaw-research/blob/main/richmond/downtown-rentals-under-2k.md) `2026-04-11`
 
 ### uncategorized (1)
 

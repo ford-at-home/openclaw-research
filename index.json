@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-11T03:13:41Z",
-  "total": 31,
+  "last_synchronized": "2026-04-11T03:15:42Z",
+  "total": 32,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -354,6 +354,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-11-031252-194.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-11-031252-194.md"
+    },
+    {
+      "filename": "richmond/downtown-rentals-under-2k.md",
+      "title": "Best places to rent a house in Richmond Virginia under 2000 per month - downtown or walkable urban neighborhoods, kid-friendly, close to city life and amenities",
+      "query": "Best places to rent a house in Richmond Virginia under 2000 per month - downtown or walkable urban neighborhoods, kid-friendly, close to city life and amenities",
+      "processor": "ultra-fast",
+      "date": "2026-04-11",
+      "category": "richmond",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480ea08c475f95a32562",
+      "summary": "* **The \"House\" Scarcity Reality**: In 2026, the median rent across Richmond has reached between $1,427 [1] and $1,621 [2], making a true 3-bedroom single-family house under $2,000 in prime walkable zones a rare find. Families should prioritize 2-bed",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/richmond/downtown-rentals-under-2k.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/richmond/downtown-rentals-under-2k.md"
     },
     {
       "filename": "voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md",
