@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-11T01:47:24Z",
-  "total": 28,
+  "last_synchronized": "2026-04-11T03:12:29Z",
+  "total": 29,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -322,6 +322,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-224716-188.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-224716-188.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md",
+      "title": "Voice note — Research great places to rent a house",
+      "query": "Voice note — Research great places to rent a house",
+      "processor": "unknown",
+      "date": "2026-04-11",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Research great places to rent a house. Um, I would have the kids half the time. In a cool area somewhere downtown. Looked in the middle of all the. Bustling city life for less than. $2000 a month.",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md"
     },
     {
       "filename": "community-building/affordable-family-neighborhoods-richmond.md",
