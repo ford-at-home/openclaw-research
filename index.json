@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-10T22:48:21Z",
+  "last_synchronized": "2026-04-11T01:47:24Z",
   "total": 28,
   "corpus": [
     {
@@ -14,7 +14,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.",
+      "summary": "Versioned knowledge repository for the OpenClaw AI assistant. Contains three distinct content systems in one repo.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/CLAUDE.md"
@@ -132,9 +132,9 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/shawn.md"
     },
     {
-      "filename": "wiki/entity/thaddeus.md",
-      "title": "Thaddeus",
-      "query": "Thaddeus",
+      "filename": "wiki/entity/thadeus.md",
+      "title": "Thadeus",
+      "query": "Thadeus",
       "processor": "unknown",
       "date": "unknown",
       "category": "wiki",
@@ -144,8 +144,8 @@
       "run_id": "",
       "summary": "Ford's eldest child, commonly referred to as **Thaus**.",
       "tags": [],
-      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thaddeus.md",
-      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/thaddeus.md"
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thadeus.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/thadeus.md"
     },
     {
       "filename": "wiki/entity/tool/openclaw.md",
@@ -318,31 +318,47 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford describes his three children: Thaddeus (nicknamed Thaus), age 11, born 2014, who loves robotics; Rio, age 7, born 2018 in Lagos, who loves basketball and soccer; and Trixie, age 5, born 2021, who loves unicorns, rainbows, and riding her scooter.",
+      "summary": "Ford describes his three children: Thadeus (nicknamed Thaus), age 11, born 2014 in Richmond VA, who loves robotics; Rio, age 7, born 2018 in Richmond VA, who loves basketball and soccer; and Trixie, age 5, born 2021 in Richmond VA, who loves unicorns",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-224716-188.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-10-224716-188.md"
     },
     {
-      "filename": "origin-of-life.md",
+      "filename": "community-building/affordable-family-neighborhoods-richmond.md",
+      "title": "Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety",
+      "query": "Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety",
+      "processor": "ultra-fast",
+      "date": "2026-04-10",
+      "category": "community-building",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_622eae3ab32c426abb20d9976f78009d",
+      "summary": "{\n  \"executive_summary\": \"For families seeking the best overall balance of affordability, school quality, and safety in the Richmond, Virginia metro area, the suburban neighborhoods of Short Pump and Glen Allen in Henrico County stand out as top choi",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/community-building/affordable-family-neighborhoods-richmond.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/community-building/affordable-family-neighborhoods-richmond.md"
+    },
+    {
+      "filename": "data-science/origin-of-life.md",
       "title": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",
       "query": "Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings",
       "processor": "ultra-fast",
       "date": "2026-04-10",
-      "category": "uncategorized",
+      "category": "data-science",
       "subcategory": "",
       "status": "draft",
       "confidence": "unknown",
       "run_id": "trun_622eae3ab32c426abf3bb132cd5fe099",
       "summary": "{\n  \"executive_summary\": \"The current scientific understanding of the origin of life, or abiogenesis, has moved from singular, competing hypotheses toward integrated, hybrid models that acknowledge the complexity of the chemistry-to-biology transitio",
       "tags": [],
-      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md",
-      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/origin-of-life.md"
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/data-science/origin-of-life.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/data-science/origin-of-life.md"
     },
     {
-      "filename": "personal/will-prior.md",
-      "title": "Will Prior — Personal Profile",
-      "query": "Will Prior — Personal Profile",
+      "filename": "personal/ford-prior.md",
+      "title": "Ford Prior — Personal Profile",
+      "query": "Ford Prior — Personal Profile",
       "processor": "unknown",
       "date": "2026-04-10",
       "category": "personal",
@@ -350,32 +366,16 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "- Name: Will Prior (also goes by Ford)\n- Age: 37\n- Location: Richmond, VA (born and raised)\n- Contact: Telegram (@ford_clawbot)",
+      "summary": "- Name: Ford Prior\n- Age: 37\n- Location: Richmond, VA (born and raised)\n- Contact: Telegram (@ford_clawbot)",
       "tags": [
-        "will",
+        "ford",
         "profile",
         "richmond",
         "food",
         "preferences"
       ],
-      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
-      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
-    },
-    {
-      "filename": "richmond/affordable-family-neighborhoods.md",
-      "title": "Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety",
-      "query": "Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety",
-      "processor": "ultra-fast",
-      "date": "2026-04-10",
-      "category": "richmond",
-      "subcategory": "",
-      "status": "draft",
-      "confidence": "unknown",
-      "run_id": "trun_622eae3ab32c426abb20d9976f78009d",
-      "summary": "{\n  \"executive_summary\": \"For families seeking the best overall balance of affordability, school quality, and safety in the Richmond, Virginia metro area, the suburban neighborhoods of Short Pump and Glen Allen in Henrico County stand out as top choi",
-      "tags": [],
-      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/richmond/affordable-family-neighborhoods.md",
-      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/richmond/affordable-family-neighborhoods.md"
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/ford-prior.md"
     },
     {
       "filename": "voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md",

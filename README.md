@@ -10,12 +10,12 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-10 22:48 UTC  
+**Last indexed:** 2026-04-11 01:47 UTC  
 **Total documents:** 28
 
 ## Recent Research
 
-- [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned research library for the OpenClaw AI assistant. Auto-indexed on push via GitHub Actions.
+- [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned knowledge repository for the OpenClaw AI assistant. Contains three distinct content systems in one repo.
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is currently in the market to buy a home. This page tracks intent, context, and any details that emerge over time a
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) — Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San D
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) — Ford engages with the Richmond tech community through workshops — both as a facilitator and as a learner. Workshops are 
@@ -23,23 +23,26 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) — As of April 2026, Ford is interested in buying a Mac Mini to support personal projects. No purchase decision has been co
 - [Rio](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) — Ford's middle child.
 - [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) — Shawn is a friend of Ford's who lives in San Diego, CA. They stay in contact primarily by phone.
-- [Thaddeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thaddeus.md) — Ford's eldest child, commonly referred to as **Thaus**.
+- [Thadeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thadeus.md) — Ford's eldest child, commonly referred to as **Thaus**.
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) — OpenClaw is an AI/LLM-related tool that Ford is actively exploring. As of April 2026, he is participating in an OpenClaw
 
 ## By Category
 
+### community-building (1)
+
+- [Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety](https://github.com/ford-at-home/openclaw-research/blob/main/community-building/affordable-family-neighborhoods-richmond.md) `2026-04-10`
+
+### data-science (1)
+
+- [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/data-science/origin-of-life.md) `2026-04-10`
+
 ### personal (1)
 
-- [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) `2026-04-10`
+- [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-10`
 
-### richmond (1)
-
-- [Affordable family-friendly neighborhoods in Richmond Virginia - best places to raise kids without breaking the bank, cost of living, schools, safety](https://github.com/ford-at-home/openclaw-research/blob/main/richmond/affordable-family-neighborhoods.md) `2026-04-10`
-
-### uncategorized (2)
+### uncategorized (1)
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) 
-- [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/origin-of-life.md) `2026-04-10`
 
 ### voice-notes (5)
 
@@ -58,7 +61,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) 
 - [Rio](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) 
 - [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) 
-- [Thaddeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thaddeus.md) 
+- [Thadeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thadeus.md) 
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) 
 - [Trixie](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/trixie.md) 
 - [Wesley](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md) 
@@ -73,12 +76,12 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 
 ## Tags
 
-**food** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
-**preferences** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
-**profile** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
-**richmond** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+**food** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**ford** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**preferences** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**profile** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**richmond** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
 **voice-note** — [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md), [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md), [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md), [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md)
-**will** — [Will Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
 
 ## Structure
 
@@ -93,7 +96,6 @@ openclaw-research/
   cloud-infrastructure/
   software-engineering/
   web-development/
-  blockchain-crypto/
   business-strategy/
   community-building/
   data-science/
