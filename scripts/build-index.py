@@ -202,7 +202,6 @@ def write_readme(entries: list[dict]) -> None:
         "  cloud-infrastructure/",
         "  software-engineering/",
         "  web-development/",
-        "  blockchain-crypto/",
         "  business-strategy/",
         "  community-building/",
         "  data-science/",

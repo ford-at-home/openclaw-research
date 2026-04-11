@@ -6,8 +6,8 @@
 ## Statistics
 
 - **Total documents:** 0
-- **Categories:** 10
-- **Subcategories:** 50
+- **Categories:** 9
+- **Subcategories:** 45
 
 ## By Category
 
@@ -21,9 +21,6 @@ _No research documents yet._
 _No research documents yet._
 
 ### web-development/ - Web Development
-_No research documents yet._
-
-### blockchain-crypto/ - Blockchain & Crypto
 _No research documents yet._
 
 ### business-strategy/ - Business & Strategy

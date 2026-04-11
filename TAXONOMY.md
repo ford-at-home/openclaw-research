@@ -55,15 +55,6 @@ This defines the canonical category/subcategory structure. All research document
 | `accessibility` | WCAG, a11y patterns, assistive tech |
 | `pwa` | Service workers, offline, installability |
 
-### `blockchain-crypto/` - Blockchain & Crypto
-| Subcategory | Scope |
-|---|---|
-| `web3` | Decentralized apps, wallets, identity |
-| `defi` | Decentralized finance protocols, yield |
-| `smart-contracts` | Solidity, Rust, auditing, patterns |
-| `nfts` | Token standards, marketplaces, utility |
-| `protocols` | L1/L2, consensus, interoperability |
-
 ### `business-strategy/` - Business & Strategy
 | Subcategory | Scope |
 |---|---|
