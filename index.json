@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-11T03:15:42Z",
-  "total": 32,
+  "last_synchronized": "2026-04-12T11:28:19Z",
+  "total": 35,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -50,6 +50,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/media-preferences.md"
+    },
+    {
+      "filename": "wiki/concept/sailing-life.md",
+      "title": "Sailing Life",
+      "query": "Sailing Life",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "concept",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Sailing is a significant family hobby and seasonal tradition for Ford. The anchor of this activity is his parents' property/boat slip in **Deltaville, Virginia**, where the family keeps multiple watercraft and spends summer weekends.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/sailing-life.md"
     },
     {
       "filename": "wiki/concept/social-circle.md",
@@ -116,6 +132,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/hardware/mac-mini.md"
     },
     {
+      "filename": "wiki/entity/maria.md",
+      "title": "Maria",
+      "query": "Maria",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Maria is one of Ford's children. She is the younger child referenced in the context of learning to sail the family's Opti (Optimist dinghy) at their Deltaville, VA sailing location.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/maria.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/maria.md"
+    },
+    {
       "filename": "wiki/entity/rio.md",
       "title": "Rio",
       "query": "Rio",
@@ -158,7 +190,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford's eldest child, commonly referred to as **Thaus**.",
+      "summary": "Thaddeus (also spelled Thadeus in prior entries) is one of Ford's children. He is the only child currently capable of sailing the family's Opti (Optimist dinghy) at their Deltaville, VA sailing location.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thadeus.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/thadeus.md"
@@ -222,7 +254,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-11T03:13:30Z_",
+      "summary": "_Last updated: 2026-04-12T11:28:06Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -354,6 +386,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-11-031252-194.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-11-031252-194.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-12-112711-200.md",
+      "title": "Voice memo — Same",
+      "query": "Voice memo — Same",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's parents own a 1987 Ericsson 38ft yacht docked in Deltaville, Virginia. During summer weekends, Ford takes his kids down to sail. The family has two additional boats: a 1987 Hobie Cat 16 and an Opti (optimist dinghy) for the younger kids. Thadd",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-12-112711-200.md"
     },
     {
       "filename": "richmond/downtown-rentals-under-2k.md",
