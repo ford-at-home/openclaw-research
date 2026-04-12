@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-11T03:13:30Z"
+last_updated: "2026-04-12T11:28:06Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-11T03:13:30Z_
+_Last updated: 2026-04-12T11:28:06Z_
 
 ## Sources
 
@@ -17,21 +17,24 @@ _Last updated: 2026-04-11T03:13:30Z_
 - [Voice memo — I had a knowledge base entry that](wiki/source/2026-04-10-221032-174.md)
 - [Voice memo — I have 3 kids](wiki/source/2026-04-10-224716-188.md)
 - [Voice memo — Add that I Don't really love movies](wiki/source/2026-04-11-031252-194.md)
+- [Voice memo — Same](wiki/source/2026-04-12-112711-200.md)
 
 ## Concepts
 
 - [Home-Buying Search](wiki/concept/home-buying-search.md)
 - [Media Preferences](wiki/concept/media-preferences.md)
+- [Sailing Life](wiki/concept/sailing-life.md)
 - [Social Circle](wiki/concept/social-circle.md)
 - [Workshop Hosting & Participation](wiki/concept/workshop-hosting.md)
 
 ## Entities
 
 - [April](wiki/entity/april.md)
+- [Maria](wiki/entity/maria.md)
 - [Rio](wiki/entity/rio.md)
 - [Shawn](wiki/entity/shawn.md)
 - [Thadeus](wiki/entity/thadeus.md)
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 
-**Total pages:** 17
+**Total pages:** 20

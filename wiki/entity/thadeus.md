@@ -1,35 +1,29 @@
 ---
 page_type: entity
 title: "Thadeus"
-alias: "Thaus"
-last_updated: "2026-04-10T22:47:16Z"
+last_updated: "2026-04-12T11:27:11Z"
 domain: personal-life
 subdomain: family
 tags:
   - child
-  - family
-  - robotics
+  - sailing
+  - opti
+  - deltaville
 sources:
-  - wiki/source/2026-04-10-224716-188.md
+  - wiki/source/2026-04-12-112711-200.md
 ---
 
-# Thadeus
+## Overview
 
-Ford's eldest child, commonly referred to as **Thaus**.
+Thaddeus (also spelled Thadeus in prior entries) is one of Ford's children. He is the only child currently capable of sailing the family's Opti (Optimist dinghy) at their Deltaville, VA sailing location.
 
-## Key Facts
+## Known Details
 
-- **Age:** 11 (as of 2026)
-- **Birth year:** 2014
-- **Birthplace:** Richmond, VA
-- **Interests:** Robotics
+- One of Ford's 3 kids.
+- Can independently sail the **Opti** (Optimist dinghy) at Deltaville.
+- Participates in family summer sailing trips to Deltaville, VA.
+- Attends the **Junior Week** summer sailing camp annually.
 
 ## Notes
 
-- The nickname "Thaus" is used consistently by Ford in voice memos.
-- His interest in robotics resonates with Ford's builder/tech identity — potential shared ground for mentorship or projects.
-
-## Related Pages
-
-- [Rio](wiki/entity/rio.md)
-- [Trixie](wiki/entity/trixie.md)
+- Spelling varies across sources: "Thaddeus" (voice memo) and "Thadeus" (wiki). Likely the same child — consolidate once confirmed.
