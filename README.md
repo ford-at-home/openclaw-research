@@ -10,7 +10,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-12 11:28 UTC  
+**Last indexed:** 2026-04-12 23:04 UTC  
 **Total documents:** 35
 
 ## Recent Research
@@ -23,8 +23,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) — Ford engages with the Richmond tech community through workshops — both as a facilitator and as a learner. Workshops are 
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) — April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geo
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) — As of April 2026, Ford is interested in buying a Mac Mini to support personal projects. No purchase decision has been co
-- [Maria](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/maria.md) — Maria is one of Ford's children. She is the younger child referenced in the context of learning to sail the family's Opt
-- [Rio](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) — Ford's middle child.
+- [Rio (Gabriel)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) — Ford's middle child. Full name Gabriel, goes by Rio.
+- [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) — Shawn is a friend of Ford's who lives in San Diego, CA. They stay in contact primarily by phone.
 
 ## By Category
 
@@ -39,6 +39,10 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 ### personal (1)
 
 - [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-10`
+
+### research (1)
+
+- [Comprehensive architectural analysis: Is OpenClaw and persistent-state LLM agent frameworks a paradigm shift vs incremental evolution over Zapier n8n LangChain AutoGPT BabyAGI - historical baseline workflow automation early agent frameworks stateful vs stateless execution DAG pipelines vs emergent loop-based workflows Git-backed state version control enabling conditions LLM capability improvements context windows inference costs counterarguments skepticism synthesis](https://github.com/ford-at-home/openclaw-research/blob/main/research/agentic-architecture-paradigm-shift-analysis.md) `2026-04-12`
 
 ### richmond (1)
 
@@ -57,7 +61,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (24)
+### wiki (23)
 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
 - [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md) 
@@ -66,8 +70,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) 
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) 
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) 
-- [Maria](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/maria.md) 
-- [Rio](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) 
+- [Rio (Gabriel)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) 
 - [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) 
 - [Thadeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thadeus.md) 
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) 

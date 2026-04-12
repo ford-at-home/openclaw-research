@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-12T11:28:19Z",
+  "last_synchronized": "2026-04-12T23:04:22Z",
   "total": 35,
   "corpus": [
     {
@@ -132,25 +132,9 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/hardware/mac-mini.md"
     },
     {
-      "filename": "wiki/entity/maria.md",
-      "title": "Maria",
-      "query": "Maria",
-      "processor": "unknown",
-      "date": "unknown",
-      "category": "wiki",
-      "subcategory": "entity",
-      "status": "draft",
-      "confidence": "unknown",
-      "run_id": "",
-      "summary": "Maria is one of Ford's children. She is the younger child referenced in the context of learning to sail the family's Opti (Optimist dinghy) at their Deltaville, VA sailing location.",
-      "tags": [],
-      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/maria.md",
-      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/maria.md"
-    },
-    {
       "filename": "wiki/entity/rio.md",
-      "title": "Rio",
-      "query": "Rio",
+      "title": "Rio (Gabriel)",
+      "query": "Rio (Gabriel)",
       "processor": "unknown",
       "date": "unknown",
       "category": "wiki",
@@ -158,7 +142,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford's middle child.",
+      "summary": "Ford's middle child. Full name Gabriel, goes by Rio.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/rio.md"
@@ -402,6 +386,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-12-112711-200.md"
+    },
+    {
+      "filename": "research/agentic-architecture-paradigm-shift-analysis.md",
+      "title": "Comprehensive architectural analysis: Is OpenClaw and persistent-state LLM agent frameworks a paradigm shift vs incremental evolution over Zapier n8n LangChain AutoGPT BabyAGI - historical baseline workflow automation early agent frameworks stateful vs stateless execution DAG pipelines vs emergent loop-based workflows Git-backed state version control enabling conditions LLM capability improvements context windows inference costs counterarguments skepticism synthesis",
+      "query": "Comprehensive architectural analysis: Is OpenClaw and persistent-state LLM agent frameworks a paradigm shift vs incremental evolution over Zapier n8n LangChain AutoGPT BabyAGI - historical baseline workflow automation early agent frameworks stateful vs stateless execution DAG pipelines vs emergent loop-based workflows Git-backed state version control enabling conditions LLM capability improvements context windows inference costs counterarguments skepticism synthesis",
+      "processor": "ultra-fast",
+      "date": "2026-04-12",
+      "category": "research",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480e9adf46090f4c1d94",
+      "summary": "* **The Architectural Shift:** We are transitioning from \"Workflows as Scripts\" (Zapier/n8n) to \"Agents as Stateful Services\" (OpenClaw). While traditional platforms execute stateless, triggered Directed Acyclic Graphs (DAGs), OpenClaw maintains a lo",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/agentic-architecture-paradigm-shift-analysis.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/agentic-architecture-paradigm-shift-analysis.md"
     },
     {
       "filename": "richmond/downtown-rentals-under-2k.md",
