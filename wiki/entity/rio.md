@@ -1,7 +1,7 @@
 ---
 page_type: entity
-title: "Rio"
-last_updated: "2026-04-10T22:47:16Z"
+title: "Rio (Gabriel)"
+last_updated: "2026-04-12T11:30:00Z"
 domain: personal-life
 subdomain: family
 tags:
@@ -9,26 +9,31 @@ tags:
   - family
   - basketball
   - soccer
+  - sailing
+  - opti
+  - deltaville
 sources:
   - wiki/source/2026-04-10-224716-188.md
+  - wiki/source/2026-04-12-112711-200.md
 ---
 
-# Rio
+# Rio (Gabriel)
 
-Ford's middle child.
+Ford's middle child. Full name Gabriel, goes by Rio.
 
 ## Key Facts
 
 - **Age:** 7 (as of 2026)
 - **Birth year:** 2018
-- **Birthplace:** Richmond, VA
-- **Interests:** Basketball, soccer
+- **Birthplace:** Lagos
+- **Interests:** Basketball, soccer, sailing
 
-## Notes
+## Sailing
 
-- Sports-oriented; may be involved in youth leagues.
+- Learning to sail the Opti (Optimist dinghy) at Deltaville, VA
+- Participates in family summer sailing trips
 
 ## Related Pages
 
-- [Thadeus](wiki/entity/thadeus.md)
+- [Thaddeus](wiki/entity/thaddeus.md)
 - [Trixie](wiki/entity/trixie.md)
