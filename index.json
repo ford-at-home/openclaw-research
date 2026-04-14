@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-14T13:39:58Z",
-  "total": 37,
+  "last_synchronized": "2026-04-14T13:43:27Z",
+  "total": 38,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -418,6 +418,32 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-14-133823-215.md"
+    },
+    {
+      "filename": "writing/building-personal-ai-assistant-on-aws.md",
+      "title": "Building a Personal AI Assistant on AWS",
+      "query": "Building a Personal AI Assistant on AWS",
+      "processor": "unknown",
+      "date": "2026-04-14",
+      "category": "writing",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Three things converged between 2023 and 2026:",
+      "tags": [
+        "openclaw",
+        "aws",
+        "ai",
+        "personal-assistant",
+        "blog-post",
+        "bedrock",
+        "telegram",
+        "voice-memo",
+        "knowledge-base"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/writing/building-personal-ai-assistant-on-aws.md"
     },
     {
       "filename": "research/agentic-architecture-paradigm-shift-analysis.md",
