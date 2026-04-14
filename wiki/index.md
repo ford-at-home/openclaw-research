@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-12T11:28:06Z"
+last_updated: "2026-04-14T13:39:47Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-12T11:28:06Z_
+_Last updated: 2026-04-14T13:39:47Z_
 
 ## Sources
 
@@ -18,9 +18,11 @@ _Last updated: 2026-04-12T11:28:06Z_
 - [Voice memo — I have 3 kids](wiki/source/2026-04-10-224716-188.md)
 - [Voice memo — Add that I Don't really love movies](wiki/source/2026-04-11-031252-194.md)
 - [Voice memo — Same](wiki/source/2026-04-12-112711-200.md)
+- [Voice memo — All right, so a couple of quick details about my exercise routine](wiki/source/2026-04-14-133823-215.md)
 
 ## Concepts
 
+- [Fitness Routine](wiki/concept/fitness-routine.md)
 - [Home-Buying Search](wiki/concept/home-buying-search.md)
 - [Media Preferences](wiki/concept/media-preferences.md)
 - [Sailing Life](wiki/concept/sailing-life.md)
@@ -30,11 +32,10 @@ _Last updated: 2026-04-12T11:28:06Z_
 ## Entities
 
 - [April](wiki/entity/april.md)
-- [Maria](wiki/entity/maria.md)
-- [Rio](wiki/entity/rio.md)
+- [Rio (Gabriel)](wiki/entity/rio.md)
 - [Shawn](wiki/entity/shawn.md)
 - [Thadeus](wiki/entity/thadeus.md)
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 
-**Total pages:** 20
+**Total pages:** 21

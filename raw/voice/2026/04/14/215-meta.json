@@ -1,0 +1,12 @@
+{
+  "msg_id": "215",
+  "ingest_timestamp": "2026-04-14T13:38:23Z",
+  "source_platform": "telegram",
+  "channel_jid": "8428154523@s.telegram.org",
+  "audio_filename": "215.ogg",
+  "audio_size_bytes": 754502,
+  "audio_sha256": "9c10cb11ab31cbd1a81e832858b83c30945d96d50e32da12e34e4ec93abdbf1b",
+  "transcription_engine": "aws-transcribe",
+  "transcription_job_name": "openclaw-voice-1776173903-9e90b867",
+  "transcription_status": "completed"
+}
