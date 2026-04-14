@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-12T23:04:22Z",
-  "total": 35,
+  "last_synchronized": "2026-04-14T13:39:58Z",
+  "total": 37,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -20,6 +20,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/CLAUDE.md"
     },
     {
+      "filename": "wiki/concept/fitness-routine.md",
+      "title": "Fitness Routine",
+      "query": "Fitness Routine",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "concept",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford has an active but inconsistent fitness life. He describes it as one of the most \"disjointed\" areas of his life and has a strong desire to improve it. He is 37 years old and increasingly aware of the need to invest in his physical health.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/fitness-routine.md"
+    },
+    {
       "filename": "wiki/concept/home-buying-search.md",
       "title": "Home-Buying Search",
       "query": "Home-Buying Search",
@@ -30,7 +46,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford is currently in the market to buy a home. This page tracks intent, context, and any details that emerge over time about his housing search.",
+      "summary": "Ford is actively searching for a new home in the Richmond, VA area. As of April 2026 he is living with his parents temporarily while navigating this process. Finding a home is a high-priority life goal with downstream effects on daily routines, paren",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/home-buying-search.md"
@@ -238,7 +254,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-12T11:28:06Z_",
+      "summary": "_Last updated: 2026-04-14T13:39:47Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -386,6 +402,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-12-112711-200.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-14-133823-215.md",
+      "title": "Voice memo — All right, so a couple of quick details about my exercise routine",
+      "query": "Voice memo — All right, so a couple of quick details about my exercise routine",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford describes his current exercise routine and fitness goals as of April 2026. He trains at Gold's Gym roughly daily (though inconsistently), doing jump rope, heavy bag work, shadow boxing, light yoga, treadmill running, and a 15-minute sauna sessio",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-14-133823-215.md"
     },
     {
       "filename": "research/agentic-architecture-paradigm-shift-analysis.md",

@@ -10,13 +10,14 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-12 23:04 UTC  
-**Total documents:** 35
+**Last indexed:** 2026-04-14 13:39 UTC  
+**Total documents:** 37
 
 ## Recent Research
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned knowledge repository for the OpenClaw AI assistant. Contains three distinct content systems in one repo.
-- [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is currently in the market to buy a home. This page tracks intent, context, and any details that emerge over time a
+- [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) — Ford has an active but inconsistent fitness life. He describes it as one of the most "disjointed" areas of his life and 
+- [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is actively searching for a new home in the Richmond, VA area. As of April 2026 he is living with his parents tempo
 - [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md) — Ford's relationship with entertainment media is selective and taste-driven rather than broadly enthusiastic. He does not
 - [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md) — Sailing is a significant family hobby and seasonal tradition for Ford. The anchor of this activity is his parents' prope
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) — Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San D
@@ -24,7 +25,6 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) — April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geo
 - [Mac Mini (Potential Purchase)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md) — As of April 2026, Ford is interested in buying a Mac Mini to support personal projects. No purchase decision has been co
 - [Rio (Gabriel)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md) — Ford's middle child. Full name Gabriel, goes by Rio.
-- [Shawn](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/shawn.md) — Shawn is a friend of Ford's who lives in San Diego, CA. They stay in contact primarily by phone.
 
 ## By Category
 
@@ -61,8 +61,9 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (23)
+### wiki (25)
 
+- [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
 - [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md) 
 - [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md) 
@@ -86,6 +87,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — I have 3 kids](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-224716-188.md) 
 - [Voice memo — Add that I Don't really love movies](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-11-031252-194.md) 
 - [Voice memo — Same](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md) 
+- [Voice memo — All right, so a couple of quick details about my exercise routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md) 
 
 ## Tags
 
