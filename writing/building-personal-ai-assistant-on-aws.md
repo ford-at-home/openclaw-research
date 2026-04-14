@@ -108,3 +108,24 @@ Fixed per-task pricing ($0.005–$0.250 depending on tier), not per-token.
 - Transcription upgrade to Whisper
 - Structured self-improvement via GitHub issues → cloud agent → deployed changes
 - Dedicated Q&A Telegram topic grounded in the full KB
+
+---
+
+## Additional Bug Details (from Ford, post-draft)
+
+### Bug 9 (continued): IAM Prefix Mismatch
+The fix is simple — align the prefix in the script to match the policy. Finding it requires knowing to look at the IAM policy at all.
+
+### Bug 10: Non-ASCII Characters in AWS CLI Request
+wiki-integrate.sh included em-dashes in the prompt template. AWS CLI's `--body file://` expects ASCII and rejects anything else. Fix: `fileb://` reads raw bytes, handles any encoding. Use fileb:// any time a request body might include typographic punctuation.
+
+### Bug 11: GitHub Actions Multi-Line Output Parsing
+grep -m1 on frontmatter worked until body content matched the pattern. Multi-line values written via `echo "summary=..." >> $GITHUB_OUTPUT` are truncated. Fix: Python frontmatter parser + heredoc delimiter syntax for multi-line GITHUB_OUTPUT values.
+
+### Bug 12: Research Output as Raw JSON
+Parallel AI's `output_schema: { type: "auto" }` returns structured JSON. `{ type: "text" }` returns readable markdown. One parameter change deleted an entire downstream reformatting pipeline stage and the bugs it contained.
+
+### Bug 13: Speech-to-Text Errors Propagating
+Transcribe heard "Lagos" instead of "Richmond." LLM pass treated transcript as ground truth. Seven files required correction. 
+
+Governance response: all transcribed content is a draft. Human review before promotion to canonical pages. Corrections commit with provenance notes. Raw transcripts stay immutable — the error chain must always be traceable.
