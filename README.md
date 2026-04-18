@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-18 14:18 UTC  
-**Total documents:** 38
+**Last indexed:** 2026-04-18 20:47 UTC  
+**Total documents:** 39
 
 ## Recent Research
 
@@ -52,8 +52,9 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) 
 
-### voice-notes (6)
+### voice-notes (7)
 
+- [Voice note — Do some deep research on](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md) `2026-04-18`
 - [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md) `2026-04-11`
 - [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md) `2026-04-10`
 - [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md) `2026-04-10`
@@ -109,7 +110,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 **richmond** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
 **telegram** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **voice-memo** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
-**voice-note** — [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md), [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md), [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md), [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md)
+**voice-note** — [Voice note — Do some deep research on](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md), [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md), [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md), [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md)
 
 ## Structure
 

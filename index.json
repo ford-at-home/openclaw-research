@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-18T14:18:54Z",
-  "total": 38,
+  "last_synchronized": "2026-04-18T20:47:22Z",
+  "total": 39,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -418,6 +418,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-14-133823-215.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
+      "title": "Voice note — Do some deep research on",
+      "query": "Voice note — Do some deep research on",
+      "processor": "unknown",
+      "date": "2026-04-18",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Do some deep research on. Like communication strategies. Um, individual communication strategies. Um, and how like how people go about psychologically reasoning through. Optimizing their communication um based on their audience, um, and the options a",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md"
     },
     {
       "filename": "writing/building-personal-ai-assistant-on-aws.md",
