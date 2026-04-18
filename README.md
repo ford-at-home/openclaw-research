@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-18 20:47 UTC  
-**Total documents:** 39
+**Last indexed:** 2026-04-18 20:58 UTC  
+**Total documents:** 40
 
 ## Recent Research
 
@@ -40,8 +40,9 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 
 - [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-10`
 
-### research (1)
+### research (2)
 
+- [Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques](https://github.com/ford-at-home/openclaw-research/blob/main/research/individual-communication-strategies.md) `2026-04-18`
 - [Comprehensive architectural analysis: Is OpenClaw and persistent-state LLM agent frameworks a paradigm shift vs incremental evolution over Zapier n8n LangChain AutoGPT BabyAGI - historical baseline workflow automation early agent frameworks stateful vs stateless execution DAG pipelines vs emergent loop-based workflows Git-backed state version control enabling conditions LLM capability improvements context windows inference costs counterarguments skepticism synthesis](https://github.com/ford-at-home/openclaw-research/blob/main/research/agentic-architecture-paradigm-shift-analysis.md) `2026-04-12`
 
 ### richmond (1)

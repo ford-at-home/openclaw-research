@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-18T20:47:22Z",
-  "total": 39,
+  "last_synchronized": "2026-04-18T20:58:29Z",
+  "total": 40,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -418,6 +418,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-14-133823-215.md"
+    },
+    {
+      "filename": "research/individual-communication-strategies.md",
+      "title": "Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques",
+      "query": "Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques",
+      "processor": "ultra-fast",
+      "date": "2026-04-18",
+      "category": "research",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480e8d26485347507e89",
+      "summary": "* **The Listening Dividend:** Perceived listening is the single strongest predictor of workplace relationship quality ($r = 0.51$) and a robust driver of job performance ($r = 0.36$) [1]. Prioritizing \"Active-Empathic Listening\" (AEL) over traditiona",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/individual-communication-strategies.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/individual-communication-strategies.md"
     },
     {
       "filename": "voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
