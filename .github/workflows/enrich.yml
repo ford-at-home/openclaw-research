@@ -1,0 +1,103 @@
+name: Enrich Wiki (retry incomplete integration passes)
+
+# Triggers when new wiki source pages are pushed. Detects any that still
+# have "Integration pass pending" placeholders — meaning wiki-integrate.sh
+# didn't complete during the original ingest run on EC2 — and retries via SSM.
+#
+# Does NOT rebuild index.json (that is index.yml's job).
+# Does NOT loop: enrichment commits go to wiki/entity/, wiki/concept/, etc.,
+# none of which match this trigger's paths filter (wiki/source/**).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "wiki/source/**"
+
+permissions:
+  contents: read   # read-only: no commits happen from this workflow
+  id-token: write  # OIDC → AWS assume-role for SSM
+
+jobs:
+  enrich:
+    name: Retry incomplete integration passes
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 2  # needed for git diff HEAD~1
+
+      - name: Find source pages with pending integration
+        id: pending
+        run: |
+          # Files added in this push that live under wiki/source/
+          NEW=$(git diff HEAD~1 --name-only --diff-filter=A 2>/dev/null \
+            | grep '^wiki/source/.*\.md$' \
+            || true)
+
+          if [ -z "$NEW" ]; then
+            echo "No new source pages in this push"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Keep only pages that still have unfilled placeholders
+          PENDING=""
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            if grep -q "Integration pass pending" "$f" 2>/dev/null; then
+              PENDING="${PENDING}${f}"$'\n'
+            fi
+          done <<< "$NEW"
+
+          if [ -z "$PENDING" ]; then
+            echo "All integration passes already completed"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Pages needing enrichment:"
+            printf '%s' "$PENDING"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            # Store for use in later steps
+            printf '%s' "$PENDING" > /tmp/pending_pages.txt
+          fi
+
+      - name: Configure AWS credentials (OIDC)
+        if: steps.pending.outputs.skip == 'false'
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+          aws-region: ${{ vars.AWS_REGION }}
+
+      # Trigger wiki-enrich-retry.sh on EC2 for each pending page.
+      # One SSM command per page so failures are isolated and traceable.
+      # No continue-on-error: if SSM dispatch fails, the job fails visibly.
+      - name: Trigger enrichment via SSM
+        if: >-
+          steps.pending.outputs.skip == 'false' &&
+          vars.EC2_INSTANCE_ID != '' &&
+          vars.AWS_ROLE_ARN != ''
+        run: |
+          while IFS= read -r page; do
+            [ -z "$page" ] && continue
+            MSG_ID=$(basename "$page" .md)
+            echo "Dispatching enrichment for: ${page} (msg_id: ${MSG_ID})"
+
+            COMMAND="~/.openclaw/tools/wiki-enrich-retry.sh '${page}' '${MSG_ID}' 2>&1 | tee -a /tmp/openclaw-enrich.log"
+
+            COMMAND_ID=$(aws ssm send-command \
+              --document-name "AWS-RunShellScript" \
+              --instance-ids "${{ vars.EC2_INSTANCE_ID }}" \
+              --parameters "commands=[\"${COMMAND}\"]" \
+              --comment "openclaw enrich ${MSG_ID}" \
+              --output text \
+              --query 'Command.CommandId')
+
+            echo "SSM command dispatched: ${COMMAND_ID} for ${page}"
+          done < /tmp/pending_pages.txt
+
+      - name: Skip notice
+        if: steps.pending.outputs.skip == 'true'
+        run: echo "No pending integration passes — nothing to enrich."
