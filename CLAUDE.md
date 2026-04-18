@@ -15,16 +15,19 @@ Published via `research-and-publish.sh` or the `/research` slash command. Tech-f
 
 ### 2. Personal Wiki (voice memo knowledge graph)
 
-Built from voice memos via `ingest-voice.sh` → `wiki-source-entry.sh` → `wiki-integrate.sh`. Uses a personal domain taxonomy (family, health, work, hobbies, etc.) defined in the `wiki-integrate.sh` prompt.
+Built from voice memos and knowledge-worthy text messages via `ingest-voice.sh` / `ingest-text.sh` → `wiki-source-entry.sh` → `wiki-integrate.sh`. Uses a personal domain taxonomy (family, health, work, hobbies, etc.) defined in the `wiki-integrate.sh` prompt. The LLM integration pass automatically mines values and goals from each ingested entry.
 
 - **Directories:**
-  - `wiki/source/` — raw voice memo source pages
+  - `wiki/source/` — raw voice memo and text message source pages
   - `wiki/entity/` — people, places, tools, orgs
   - `wiki/concept/` — recurring abstractions and patterns
   - `wiki/synthesis/` — cross-source conclusions
+  - `wiki/values/` — recurring principles and priorities mined from behavior (accumulative)
+  - `wiki/goals/` — explicit and inferred objectives with status (active/achieved/paused)
   - `wiki/index.md` — maintained by `wiki-integrate.sh`
   - `raw/voice/` — audio files, transcripts, metadata JSON
 - **Format:** Markdown with YAML frontmatter (`page_type`, `title`, `domain`, `subdomain`, `tags`, `sources`)
+- **Page types:** `source`, `entity`, `concept`, `synthesis`, `value`, `goal`
 
 ### 3. Personal KB (bot-managed profiles)
 
