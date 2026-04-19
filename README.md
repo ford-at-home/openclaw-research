@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-19 09:08 UTC  
-**Total documents:** 45
+**Last indexed:** 2026-04-19 20:53 UTC  
+**Total documents:** 46
 
 ## Recent Research
 
@@ -61,8 +61,9 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) 
 - [Ford Prior Career Deep Research](https://github.com/ford-at-home/openclaw-research/blob/main/ford-prior-career-deep-research.md) 
 
-### voice-notes (7)
+### voice-notes (8)
 
+- [Voice note — Tested on this audio file](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/19/2026-04-19-205200-tested-on-this-audio-file.md) `2026-04-19`
 - [Voice note — Do some deep research on](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md) `2026-04-18`
 - [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md) `2026-04-11`
 - [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md) `2026-04-10`
@@ -156,7 +157,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 **tech-career** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
 **telegram** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **voice-memo** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
-**voice-note** — [Voice note — Do some deep research on](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md), [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md), [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md), [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md)
+**voice-note** — [Voice note — Tested on this audio file](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/19/2026-04-19-205200-tested-on-this-audio-file.md), [Voice note — Do some deep research on](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md), [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md), [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md)
 
 ## Structure
 
