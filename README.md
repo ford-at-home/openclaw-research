@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-18 14:18 UTC  
-**Total documents:** 38
+**Last indexed:** 2026-04-19 07:02 UTC  
+**Total documents:** 42
 
 ## Recent Research
 
@@ -36,8 +36,11 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 
 - [Origin of life: leading scientific theories, abiogenesis, RNA world hypothesis, hydrothermal vents, Miller-Urey experiment, latest findings](https://github.com/ford-at-home/openclaw-research/blob/main/data-science/origin-of-life.md) `2026-04-10`
 
-### personal (1)
+### personal (4)
 
+- [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md) `2026-04-19`
+- [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md) `2026-04-19`
+- [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md) `2026-04-19`
 - [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-10`
 
 ### research (1)
@@ -47,6 +50,10 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 ### richmond (1)
 
 - [Best places to rent a house in Richmond Virginia under 2000 per month - downtown or walkable urban neighborhoods, kid-friendly, close to city life and amenities](https://github.com/ford-at-home/openclaw-research/blob/main/richmond/downtown-rentals-under-2k.md) `2026-04-11`
+
+### software-engineering (1)
+
+- [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md) `2026-04-19`
 
 ### uncategorized (1)
 
@@ -95,18 +102,51 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 
 ## Tags
 
+**aerospace** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
 **ai** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
-**aws** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
+**aiken-sc** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md), [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**amazon** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**aws** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md), [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **bedrock** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
+**bill-prior** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md)
 **blog-post** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
+**c-plus-plus** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**capital-one** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**childhood** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md), [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**claire-prior** — [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**divorce** — [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**dr-baker** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md)
+**dragon** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**dupont** — [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**embedded** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**faith** — [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**falcon9** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**family** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md), [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
+**fault-tolerance** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
 **food** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
 **ford** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**ford-prior** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
 **knowledge-base** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
+**linux** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**meetups** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**memory-box** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md), [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
 **openclaw** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **personal-assistant** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **preferences** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**prep-school** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md)
+**prior-family** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md), [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
 **profile** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
-**richmond** — [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**python** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**qe-automation** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**real-time** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**redundancy** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**richmond** — [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md), [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md), [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md)
+**ruby** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**rva-tech-talks** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md), [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**snagajob** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
+**spacex** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**starlink** — [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md)
+**tech-career** — [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md)
 **telegram** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **voice-memo** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 **voice-note** — [Voice note — Research great places to rent a house](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md), [Voice note — Research for me the origin of life](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md), [Voice note — OK, so let's test it](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md), [Voice note — Uh, let's see what happens when you say, when you add in, That I also](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md), [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md)
