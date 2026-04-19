@@ -3,12 +3,12 @@ title: "Ford Prior — Tech Career Story"
 date: "2026-04-19"
 category: "personal"
 subcategory: "career"
-tags: [ford-prior, tech-career, amazon, capital-one, snagajob, qe-automation, aws, python, ruby, richmond, rva-tech-talks, meetups]
+tags: [ford-prior, tech-career, amazon, capital-one, snagajob, qe-automation, aws, python, ruby, richmond, rva-tech-talks, meetups, geico, flying-pig-labs]
 author: "Ford Prior"
 status: "final"
 confidence: "high"
 sources_verified: false
-source: "Otter.ai transcript — Ford Prior narrating his tech career (audio recording, approx. 2023–2024)"
+source: "Otter.ai transcript (approx. 2023–2024) + deep research (April 2026, parallel.ai)"
 ---
 
 # Ford Prior — Tech Career Story
@@ -252,6 +252,29 @@ He was also managed by **Michelle Lowe** (a contractor manager) with whom he had
 
 ---
 
+### GEICO (Senior Staff Engineer & Tech Evangelist) — 2025–Present
+
+**How:** Left Amazon; joined GEICO to run an innovation lab  
+**Title:** Senior Staff Engineer & Tech Evangelist  
+**Context:** A new chapter focused on AI-driven innovation rather than pure engineering execution
+
+**What Ford does:**
+- Runs GEICO's **innovation lab** — using AI to generate "truly novel and feasible ideas" (documented in his article "The Ideation Engine")
+- Builds **knowledge management systems** — e.g., turned 147 unread meeting notes into a living knowledge base in 30 days
+- Continues the evangelist work: speaking, writing, representing the company externally
+
+**Published work from this role:**
+- "The Ideation Engine: How I Used AI to Generate Truly Novel & Feasible Ideas at GEICO" — LinkedIn, Nov 19, 2025
+- "From 147 Unread Meeting Notes to a Living Knowledge Base in 30 Days" — LinkedIn, Nov 14, 2025
+- "Learning Open Source AI Models On My Morning Commute in Richmond, VA" — LinkedIn, Nov 3, 2025
+- "Augment, Don't Automate: How to Stay Valuable While Using AI" — LinkedIn, Oct 27, 2025
+
+**June 2025 public talk:** "Hacking the Future - Notes from the Front Lines of GenAI @ AWS" — AWS User Group Richmond, at Ippon Technology HQ, described as "former engineer at AWS"
+
+**Flying Pig Labs:** Ford's personal consultancy/venture. Listed as a sponsor for his June 2025 AWS User Group talk. The GitHub org `Flying-Pig-Labs` hosts the `rvaopenclaw` repo.
+
+---
+
 ## Compensation History
 
 | Company | Approx. Pay |
@@ -264,9 +287,79 @@ He was also managed by **Michelle Lowe** (a contractor manager) with whom he had
 | Capital One | $105–110k start; promoted to ~$125k |
 | CarMax | $150k |
 | Amazon (total comp, start) | ~$250k |
-| Amazon (total comp, current) | ~$324k |
+| Amazon (total comp, final) | ~$324k |
+| GEICO | not disclosed |
 
-**~10x salary growth over ~10 years.** From ~$44k (2014) to ~$324k total comp (~2023–2024).
+**~10x salary growth over ~10 years.** From ~$44k (2014) to ~$324k total comp at Amazon peak (~2024), then to GEICO.
+
+---
+
+## Community Building & Public Presence
+
+*(Not covered in the voice recording — sourced from deep research, April 2026)*
+
+### RVA Tech Talks Podcast
+- Started at Acuity during lunch breaks with a basic setup; did early interviews via Skype and iPhone
+- Primary motivation: an excuse to email people he wanted to learn from and impress
+- Pitched to rvatech; got ghosted; new exec director later came back and paid ~$150/episode with a real studio
+- Role evolved to host, co-host, and moderator of formal episodes (e.g., moderated "2022 Data Summit Live" and "Roundtable Talk On All Things Data" while at CarMax)
+- Still active in some form as of 2022
+
+### Richmond Cloud Wranglers (AWS/GCP/Azure User Group)
+- Started as a QA meetup; evolved into a cloud meetup as his career did
+- **1,000+ members**
+- **32 events organized**; personally presented original content at **12+ events**
+- Pre-COVID: 30–50 people per event regularly
+- COVID ended in-person momentum; never fully recovered
+
+### rvatech/ Code & Cloud Conference
+- **Co-chair** of the annual Richmond tech conference
+- Mentioned in his LinkedIn "About" section; confirmed by the 2025 conference event page
+
+### Sidekick RVA
+- **Volunteer job coach and mentor** for people entering the Richmond tech community
+
+### Richmond Folk Festival
+- **Volunteer music logger for the Library of Congress** — long-running; mentioned in his professional volunteering section
+
+### Flying Pig Labs
+- Personal consultancy and venture label
+- GitHub org `Flying-Pig-Labs` (hosts `rvaopenclaw` — his personal OpenClaw AI assistant on AWS)
+- Sponsors his own tech community events
+
+---
+
+## Published Writing
+
+| Title | Platform | Date |
+|---|---|---|
+| The Ideation Engine: How I Used AI to Generate Truly Novel & Feasible Ideas at GEICO | LinkedIn | Nov 19, 2025 |
+| From 147 Unread Meeting Notes to a Living Knowledge Base in 30 Days | LinkedIn | Nov 14, 2025 |
+| Learning Open Source AI Models On My Morning Commute in Richmond, VA | LinkedIn | Nov 3, 2025 |
+| Augment, Don't Automate: How to Stay Valuable While Using AI | LinkedIn | Oct 27, 2025 |
+| Streamlining AWS Deployments with Python & Ansible Part I | Capital One Tech Blog | Apr 27, 2021 |
+| How We Built A Self-Service API Testing Platform in AWS | Medium (@priorww) | Jan 2018 |
+| ACG Cliff Notes: AWS History & 10,000 Foot Overview | Medium (@priorww) | Aug 18, 2018 |
+
+---
+
+## Public Speaking Highlights
+
+| Talk | Venue | Date |
+|---|---|---|
+| Hacking the Future - Notes from the Front Lines of GenAI @ AWS | AWS User Group Richmond (Ippon HQ) | June 23, 2025 |
+| AWS End-to-End Setup & Deep-Dive: Deploying a Website | SlideShare | Oct 2019 |
+| Building Killer Tech Teams: Insights from an Engineer | SlideShare | Oct 2019 |
+| Agile QA: Redefining Quality in the Wild West | SlideShare | Jan 2018 |
+| 12+ original talks | Richmond Cloud Wranglers meetups | Various |
+
+---
+
+## GitHub Projects of Note
+
+- **order-anything-button** — AWS IoT button that triggers ordering from any website
+- **qualityCodeDeploy** — QA-friendly CI pipeline demo: GitHub + CircleCI + AWS
+- GitHub username: `fordprior` (https://github.com/fordprior)
 
 ---
 
