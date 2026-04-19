@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-19T07:02:25Z",
-  "total": 42,
+  "last_synchronized": "2026-04-19T07:05:37Z",
+  "total": 44,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -528,6 +528,40 @@
       ],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md"
+    },
+    {
+      "filename": "research/individual-communication-strategies.md",
+      "title": "Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques",
+      "query": "Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques",
+      "processor": "ultra-fast",
+      "date": "2026-04-18",
+      "category": "research",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480e8d26485347507e89",
+      "summary": "* **The Listening Dividend:** Perceived listening is the single strongest predictor of workplace relationship quality ($r = 0.51$) and a robust driver of job performance ($r = 0.36$) [1]. Prioritizing \"Active-Empathic Listening\" (AEL) over traditiona",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/individual-communication-strategies.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/individual-communication-strategies.md"
+    },
+    {
+      "filename": "voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
+      "title": "Voice note — Do some deep research on",
+      "query": "Voice note — Do some deep research on",
+      "processor": "unknown",
+      "date": "2026-04-18",
+      "category": "voice-notes",
+      "subcategory": "2026",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Do some deep research on. Like communication strategies. Um, individual communication strategies. Um, and how like how people go about psychologically reasoning through. Optimizing their communication um based on their audience, um, and the options a",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md"
     },
     {
       "filename": "writing/building-personal-ai-assistant-on-aws.md",
