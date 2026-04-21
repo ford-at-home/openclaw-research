@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-21T14:33:50Z",
-  "total": 48,
+  "last_synchronized": "2026-04-21T14:36:55Z",
+  "total": 49,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -466,6 +466,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/01-idps-and-platform-engineering.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/01-idps-and-platform-engineering.md"
+    },
+    {
+      "filename": "research/jungle/03-synthetic-data-sandboxes-simulation.md",
+      "title": "Synthetic data platforms traffic simulation and innovation lab sandbox environments: Gretel Mostly AI Tonic YData - chaos engineering tools traffic simulation load testing - enterprise innovation labs skunkworks environments isolated experimentation platforms - AWS sandbox Azure dev environments ephemeral environment tools Env0 Terraform Pulumi",
+      "query": "Synthetic data platforms traffic simulation and innovation lab sandbox environments: Gretel Mostly AI Tonic YData - chaos engineering tools traffic simulation load testing - enterprise innovation labs skunkworks environments isolated experimentation platforms - AWS sandbox Azure dev environments ephemeral environment tools Env0 Terraform Pulumi",
+      "processor": "ultra-fast",
+      "date": "2026-04-21",
+      "category": "research",
+      "subcategory": "jungle",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480ead21a00952d401e5",
+      "summary": "As enterprise innovation labs and skunkworks environments mature in 2026, the focus has shifted from merely masking sensitive data to dynamically simulating complex, high-throughput application traffic. This evolution enables organizations to safely ",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/03-synthetic-data-sandboxes-simulation.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/03-synthetic-data-sandboxes-simulation.md"
     },
     {
       "filename": "personal/2026-04-19-bill-prior-memory-box-session-1.md",

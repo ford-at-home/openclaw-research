@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-21 14:33 UTC  
-**Total documents:** 48
+**Last indexed:** 2026-04-21 14:36 UTC  
+**Total documents:** 49
 
 ## Recent Research
 
@@ -43,10 +43,11 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md) `2026-04-19`
 - [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-19`
 
-### research (4)
+### research (5)
 
 - [Multi-tenant innovation sandbox platform investigation: does a system exist combining isolated team sandboxes with production-like DMZ environments, AI agent-driven architecture generation, Frankenstein starter apps, bazaar marketplace for product ideation via internet scraping and trend detection, multi-agent swarm builders, synthetic data streams, traffic simulation, idea ranking, role-based access, enterprise integration - internal developer platforms IDPs, platform engineering toolkits, innovation labs, AI-driven software generation, multi-agent development systems, synthetic data platforms, product ideation tools - capability comparison, market gaps, novel category vs emerging convergence analysis](https://github.com/ford-at-home/openclaw-research/blob/main/research/innovation-sandbox-platform-analysis.md) `2026-04-21`
 - [Innovation sandbox jungle platform: existing IDPs internal developer platforms and platform engineering toolkits - Backstage Humanitec Port Cortex Crossplane Kratix - capability analysis, maturity, architectural patterns, failure modes, enterprise implementations at large companies](https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/01-idps-and-platform-engineering.md) `2026-04-21`
+- [Synthetic data platforms traffic simulation and innovation lab sandbox environments: Gretel Mostly AI Tonic YData - chaos engineering tools traffic simulation load testing - enterprise innovation labs skunkworks environments isolated experimentation platforms - AWS sandbox Azure dev environments ephemeral environment tools Env0 Terraform Pulumi](https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/03-synthetic-data-sandboxes-simulation.md) `2026-04-21`
 - [Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques](https://github.com/ford-at-home/openclaw-research/blob/main/research/individual-communication-strategies.md) `2026-04-18`
 - [Comprehensive architectural analysis: Is OpenClaw and persistent-state LLM agent frameworks a paradigm shift vs incremental evolution over Zapier n8n LangChain AutoGPT BabyAGI - historical baseline workflow automation early agent frameworks stateful vs stateless execution DAG pipelines vs emergent loop-based workflows Git-backed state version control enabling conditions LLM capability improvements context windows inference costs counterarguments skepticism synthesis](https://github.com/ford-at-home/openclaw-research/blob/main/research/agentic-architecture-paradigm-shift-analysis.md) `2026-04-12`
 
