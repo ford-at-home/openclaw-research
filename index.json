@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-21T14:36:55Z",
-  "total": 49,
+  "last_synchronized": "2026-04-21T14:37:37Z",
+  "total": 50,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -466,6 +466,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/01-idps-and-platform-engineering.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/01-idps-and-platform-engineering.md"
+    },
+    {
+      "filename": "research/jungle/02-ai-software-generation-multiagent.md",
+      "title": "AI-driven software generation and multi-agent development systems: Devin SWE-agent OpenDevin Cognition AutoGPT CrewAI LangGraph agent swarms for autonomous code generation and full-stack app building - capability analysis, maturity, limitations, end-to-end idea to deployment workflows",
+      "query": "AI-driven software generation and multi-agent development systems: Devin SWE-agent OpenDevin Cognition AutoGPT CrewAI LangGraph agent swarms for autonomous code generation and full-stack app building - capability analysis, maturity, limitations, end-to-end idea to deployment workflows",
+      "processor": "ultra-fast",
+      "date": "2026-04-21",
+      "category": "research",
+      "subcategory": "jungle",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480eab538266de5819e0",
+      "summary": "The landscape of AI-driven software generation has matured significantly by April 2026, shifting from experimental code-completion chatbots to fully orchestrated, multi-agent systems capable of end-to-end software delivery.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/02-ai-software-generation-multiagent.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/02-ai-software-generation-multiagent.md"
     },
     {
       "filename": "research/jungle/03-synthetic-data-sandboxes-simulation.md",
