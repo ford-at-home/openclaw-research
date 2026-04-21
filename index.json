@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-21T04:36:08Z",
-  "total": 47,
+  "last_synchronized": "2026-04-21T14:33:50Z",
+  "total": 48,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -450,6 +450,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/innovation-sandbox-platform-analysis.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/innovation-sandbox-platform-analysis.md"
+    },
+    {
+      "filename": "research/jungle/01-idps-and-platform-engineering.md",
+      "title": "Innovation sandbox jungle platform: existing IDPs internal developer platforms and platform engineering toolkits - Backstage Humanitec Port Cortex Crossplane Kratix - capability analysis, maturity, architectural patterns, failure modes, enterprise implementations at large companies",
+      "query": "Innovation sandbox jungle platform: existing IDPs internal developer platforms and platform engineering toolkits - Backstage Humanitec Port Cortex Crossplane Kratix - capability analysis, maturity, architectural patterns, failure modes, enterprise implementations at large companies",
+      "processor": "ultra-fast",
+      "date": "2026-04-21",
+      "category": "research",
+      "subcategory": "jungle",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480e82f9c9f46cf1666b",
+      "summary": "As organizations scale their cloud-native footprints, the \"innovation sandbox jungle\"—a complex ecosystem of tools, infrastructure, and microservices—has become increasingly difficult to navigate. Internal Developer Platforms (IDPs) have emerged as t",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/01-idps-and-platform-engineering.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/01-idps-and-platform-engineering.md"
     },
     {
       "filename": "personal/2026-04-19-bill-prior-memory-box-session-1.md",
