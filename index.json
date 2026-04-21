@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-21T14:37:37Z",
-  "total": 50,
+  "last_synchronized": "2026-04-21T14:38:01Z",
+  "total": 51,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -498,6 +498,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/03-synthetic-data-sandboxes-simulation.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/03-synthetic-data-sandboxes-simulation.md"
+    },
+    {
+      "filename": "research/jungle/04-ideation-trend-scanning-market-gaps.md",
+      "title": "Product ideation trend scanning bazaar marketplace systems: AI product idea generators trend detection platforms internet scraping for opportunity discovery - idea ranking community voting mechanisms - ProductHunt Gartner Hype Cycle trend tools - research and ideation engines synthesis pipelines - market gaps in integrated idea-to-prototype-to-deployment platforms - novel category or emerging convergence",
+      "query": "Product ideation trend scanning bazaar marketplace systems: AI product idea generators trend detection platforms internet scraping for opportunity discovery - idea ranking community voting mechanisms - ProductHunt Gartner Hype Cycle trend tools - research and ideation engines synthesis pipelines - market gaps in integrated idea-to-prototype-to-deployment platforms - novel category or emerging convergence",
+      "processor": "ultra-fast",
+      "date": "2026-04-21",
+      "category": "research",
+      "subcategory": "jungle",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480e82a556da6f3c1c92",
+      "summary": "The landscape of product ideation and development has fundamentally shifted by 2026. We are witnessing the convergence of trend scanning, AI-driven ideation, community validation, and rapid prototyping into a unified \"Autonomous Innovation Stack.\" Ke",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/jungle/04-ideation-trend-scanning-market-gaps.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/jungle/04-ideation-trend-scanning-market-gaps.md"
     },
     {
       "filename": "personal/2026-04-19-bill-prior-memory-box-session-1.md",
