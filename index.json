@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-22T10:31:35Z",
-  "total": 52,
+  "last_synchronized": "2026-04-22T10:42:34Z",
+  "total": 53,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -434,6 +434,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-14-133823-215.md"
+    },
+    {
+      "filename": "research/aws-marketplace-monetization-guide.md",
+      "title": "AWS Marketplace 2024-2025: how to deploy and manage CloudFormation and CDK stacks, selling software products, SaaS listings, AMIs - monetization strategies, pricing models, seller requirements, revenue share, management tools, go-to-market, business case studies and success patterns",
+      "query": "AWS Marketplace 2024-2025: how to deploy and manage CloudFormation and CDK stacks, selling software products, SaaS listings, AMIs - monetization strategies, pricing models, seller requirements, revenue share, management tools, go-to-market, business case studies and success patterns",
+      "processor": "ultra-fast",
+      "date": "2026-04-22",
+      "category": "research",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480ea77da3ac92fd619e",
+      "summary": "The AWS Marketplace has evolved from a simple software catalog into a primary procurement vehicle for enterprise cloud spend. As of 2026, mastering the Marketplace requires a blend of strategic pricing, rigorous technical compliance, and deep integra",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/aws-marketplace-monetization-guide.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/aws-marketplace-monetization-guide.md"
     },
     {
       "filename": "voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md",
