@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-22 10:54 UTC  
-**Total documents:** 60
+**Last indexed:** 2026-04-22 10:55 UTC  
+**Total documents:** 61
 
 ## Recent Research
 
@@ -43,10 +43,11 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Ford Prior — Tech Career Story](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-tech-career-story.md) `2026-04-19`
 - [Ford Prior — Personal Profile](https://github.com/ford-at-home/openclaw-research/blob/main/personal/ford-prior.md) `2026-04-19`
 
-### research (11)
+### research (12)
 
 - [AWS Marketplace 2024-2025: how to deploy and manage CloudFormation and CDK stacks, selling software products, SaaS listings, AMIs - monetization strategies, pricing models, seller requirements, revenue share, management tools, go-to-market, business case studies and success patterns](https://github.com/ford-at-home/openclaw-research/blob/main/research/aws-marketplace-monetization-guide.md) `2026-04-22`
 - [Synthetic user testing platforms with AI agents and customizable personas evaluating software products - open source and commercial solutions 2024-2025: AgentBench, WebArena, OSWorld, BrowserGym, Playwright AI agents, UI-JEPA, existing products like UserTesting AI, Maze, Hotjar AI - capability analysis, maturity, limitations](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/01-existing-platforms.md) `2026-04-22`
+- [AI computer use for automated UI testing and product evaluation - Anthropic Claude computer use API, OpenAI computer use, Claude SDK tool use for browser automation - agent personas for UX research, simulated user behavior, clickstream generation, form filling, navigation testing - technical capabilities and limitations 2024-2025](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/02-ai-computer-use-tech.md) `2026-04-22`
 - [Customizable AI agent personas for user research and product testing - LLM persona simulation techniques, demographic modeling, behavioral profiles, think-aloud protocols via LLM, synthetic usability testing methodology - academic research and industry implementations - how to build realistic user personas with Claude or GPT-4 for UX evaluation](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/03-persona-simulation-methodology.md) `2026-04-22`
 - [Building synthetic user testing system with Claude SDK - Anthropic computer use API implementation guide, browser automation with Playwright and Claude, multi-agent orchestration for UX testing, persona-driven evaluation pipelines, open source building blocks: BrowserBase, Steel browser, Playwright MCP, AgentDesk - architecture patterns and code examples 2024-2025](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md) `2026-04-22`
 - [Multi-tenant innovation sandbox platform investigation: does a system exist combining isolated team sandboxes with production-like DMZ environments, AI agent-driven architecture generation, Frankenstein starter apps, bazaar marketplace for product ideation via internet scraping and trend detection, multi-agent swarm builders, synthetic data streams, traffic simulation, idea ranking, role-based access, enterprise integration - internal developer platforms IDPs, platform engineering toolkits, innovation labs, AI-driven software generation, multi-agent development systems, synthetic data platforms, product ideation tools - capability comparison, market gaps, novel category vs emerging convergence analysis](https://github.com/ford-at-home/openclaw-research/blob/main/research/innovation-sandbox-platform-analysis.md) `2026-04-21`

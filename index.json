@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-22T10:54:42Z",
-  "total": 60,
+  "last_synchronized": "2026-04-22T10:55:12Z",
+  "total": 61,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -530,6 +530,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/01-existing-platforms.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/synthetic-user-testing/01-existing-platforms.md"
+    },
+    {
+      "filename": "research/synthetic-user-testing/02-ai-computer-use-tech.md",
+      "title": "AI computer use for automated UI testing and product evaluation - Anthropic Claude computer use API, OpenAI computer use, Claude SDK tool use for browser automation - agent personas for UX research, simulated user behavior, clickstream generation, form filling, navigation testing - technical capabilities and limitations 2024-2025",
+      "query": "AI computer use for automated UI testing and product evaluation - Anthropic Claude computer use API, OpenAI computer use, Claude SDK tool use for browser automation - agent personas for UX research, simulated user behavior, clickstream generation, form filling, navigation testing - technical capabilities and limitations 2024-2025",
+      "processor": "ultra-fast",
+      "date": "2026-04-22",
+      "category": "research",
+      "subcategory": "synthetic-user-testing",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480ea93d8f60d400db58",
+      "summary": "The landscape of automated UI testing and product evaluation has undergone a paradigm shift in 2024–2025, moving from brittle, DOM-dependent scripts to autonomous, visually-grounded AI agents. Driven by Anthropic's Claude Computer Use API and OpenAI'",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/02-ai-computer-use-tech.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/synthetic-user-testing/02-ai-computer-use-tech.md"
     },
     {
       "filename": "research/synthetic-user-testing/03-persona-simulation-methodology.md",
