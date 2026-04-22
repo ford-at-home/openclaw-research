@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-14T13:39:47Z"
+last_updated: "2026-04-22T10:49:57Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-14T13:39:47Z_
+_Last updated: 2026-04-22T10:49:57Z_
 
 ## Sources
 
@@ -19,6 +19,7 @@ _Last updated: 2026-04-14T13:39:47Z_
 - [Voice memo — Add that I Don't really love movies](wiki/source/2026-04-11-031252-194.md)
 - [Voice memo — Same](wiki/source/2026-04-12-112711-200.md)
 - [Voice memo — All right, so a couple of quick details about my exercise routine](wiki/source/2026-04-14-133823-215.md)
+- [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](wiki/source/2026-04-22-104401-438.md)
 
 ## Concepts
 
@@ -38,4 +39,4 @@ _Last updated: 2026-04-14T13:39:47Z_
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 
-**Total pages:** 21
+**Total pages:** 22

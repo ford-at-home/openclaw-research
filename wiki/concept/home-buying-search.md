@@ -1,42 +1,43 @@
 ---
 page_type: concept
 title: "Home-Buying Search"
-last_updated: "2026-04-14T13:38:23Z"
+last_updated: "2026-04-22T10:44:01Z"
 domain: finance-ops
 subdomain: major-purchases
 tags:
   - home-buying
-  - housing
-  - mortgage
-  - living-with-parents
-  - home-gym
   - richmond
+  - neighborhoods
+  - west-end
+  - south-side
+  - schools
+  - green-space
+  - kids
 sources:
-  - wiki/source/2026-04-14-133823-215.md
+  - wiki/source/2026-04-22-104401-438.md
 ---
 
 ## Overview
 
-Ford is actively searching for a new home in the Richmond, VA area. As of April 2026 he is living with his parents temporarily while navigating this process. Finding a home is a high-priority life goal with downstream effects on daily routines, parenting logistics, and personal projects.
+Ford is actively searching for a home in Richmond, VA. His criteria span practical logistics, community culture, and child-rearing priorities.
 
-## Current Situation
+## Location Constraints
 
-- Living with parents; no independent home of his own.
-- Describes the need to find a home as urgent ("need to get a new home ASAP").
-- Home search is described as its own complex process.
+- **City**: Richmond, VA — non-negotiable.
+- **Preferred areas**: West End or South Side.
 
-## Motivations & Dependencies
+## Neighborhood Quality Criteria
 
-- Wants a space to set up home gym equipment (weights) — currently blocked by living with parents.
-- Stable housing would support a more consistent fitness and daily routine.
-- Co-parenting arrangement likely involves housing logistics.
-
-## Open Questions
-
-- What is the target neighborhood or area within Richmond?
-- Is Ford buying or renting?
-- What is the timeline or blocking factors?
+| Criterion | Detail |
+|---|---|
+| Community energy | Residents who are energetic, excited to be alive, healthy — not depressed or checked-out |
+| Resources & reciprocity | Neighbors who have capacity to invest in community and "take care of me just as much as I take care of them" |
+| Public schools | Strong elementary, middle, AND high schools — described as "a huge one" |
+| Green space | Access to parks or natural areas |
+| Free-range safety | Enough community trust and physical safety that kids can roam independently |
 
 ## Related Pages
 
-- [Fitness Routine](wiki/concept/fitness-routine.md)
+- [Kids First (Value)](wiki/values/kids-first.md)
+- [Community Energy (Value)](wiki/values/community-energy.md)
+- [Find a Home in Richmond (Goal)](wiki/goals/find-home-richmond.md)
