@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-22T10:53:20Z",
-  "total": 59,
+  "last_synchronized": "2026-04-22T10:54:42Z",
+  "total": 60,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -546,6 +546,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/03-persona-simulation-methodology.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/synthetic-user-testing/03-persona-simulation-methodology.md"
+    },
+    {
+      "filename": "research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md",
+      "title": "Building synthetic user testing system with Claude SDK - Anthropic computer use API implementation guide, browser automation with Playwright and Claude, multi-agent orchestration for UX testing, persona-driven evaluation pipelines, open source building blocks: BrowserBase, Steel browser, Playwright MCP, AgentDesk - architecture patterns and code examples 2024-2025",
+      "query": "Building synthetic user testing system with Claude SDK - Anthropic computer use API implementation guide, browser automation with Playwright and Claude, multi-agent orchestration for UX testing, persona-driven evaluation pipelines, open source building blocks: BrowserBase, Steel browser, Playwright MCP, AgentDesk - architecture patterns and code examples 2024-2025",
+      "processor": "ultra-fast",
+      "date": "2026-04-22",
+      "category": "research",
+      "subcategory": "synthetic-user-testing",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480e8672c0c67e2fbe28",
+      "summary": "The landscape of synthetic user testing has fundamentally shifted with the introduction of Anthropic's Claude Computer Use API and the Model Context Protocol (MCP). Building a robust, agentic UX evaluation system in 2025-2026 requires moving beyond b",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md"
     },
     {
       "filename": "voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md",
