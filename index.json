@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-22T10:46:29Z",
-  "total": 54,
+  "last_synchronized": "2026-04-22T10:50:17Z",
+  "total": 57,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -62,7 +62,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford is actively searching for a new home in the Richmond, VA area. As of April 2026 he is living with his parents temporarily while navigating this process. Finding a home is a high-priority life goal with downstream effects on daily routines, paren",
+      "summary": "Ford is actively searching for a home in Richmond, VA. His criteria span practical logistics, community culture, and child-rearing priorities.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/home-buying-search.md"
@@ -260,6 +260,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/wesley.md"
     },
     {
+      "filename": "wiki/goals/find-home-richmond.md",
+      "title": "Find a Home in Richmond",
+      "query": "Find a Home in Richmond",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "goals",
+      "status": "active",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Find and purchase a home in Richmond, VA that meets Ford's community, school, and lifestyle criteria.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/goals/find-home-richmond.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/goals/find-home-richmond.md"
+    },
+    {
       "filename": "wiki/index.md",
       "title": "Wiki Index",
       "query": "Wiki Index",
@@ -270,7 +286,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-14T13:39:47Z_",
+      "summary": "_Last updated: 2026-04-22T10:49:57Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -446,10 +462,42 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Integration pass pending._",
+      "summary": "Ford describes what he values in a neighborhood: residents who are energetic and healthy, people with resources who invest in community reciprocity, excellent public schools (elementary through high school), access to green space, and a safe environm",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-22-104401-438.md"
+    },
+    {
+      "filename": "wiki/values/community-energy.md",
+      "title": "Community Energy",
+      "query": "Community Energy",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "values",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford wants to be surrounded by people who are energetic, healthy, and excited to be alive. He actively avoids environments dominated by depression or low vitality, and he prizes communities where care and investment flow in both directions.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/community-energy.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/values/community-energy.md"
+    },
+    {
+      "filename": "wiki/values/kids-first.md",
+      "title": "Kids First",
+      "query": "Kids First",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "values",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's children's wellbeing is a top-order filter on major life decisions — including where to live. He prioritizes strong public schools at every level and environments safe enough for free-range childhood.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/kids-first.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/values/kids-first.md"
     },
     {
       "filename": "research/aws-marketplace-monetization-guide.md",

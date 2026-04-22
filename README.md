@@ -10,15 +10,15 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-22 10:46 UTC  
-**Total documents:** 54
+**Last indexed:** 2026-04-22 10:50 UTC  
+**Total documents:** 57
 
 ## Recent Research
 
 - [Claude](https://github.com/ford-at-home/openclaw-research/blob/main/CLAUDE.md) — Versioned knowledge repository for the OpenClaw AI assistant. Contains three distinct content systems in one repo.
 - [Ford Prior Career Deep Research](https://github.com/ford-at-home/openclaw-research/blob/main/ford-prior-career-deep-research.md) — Ford Prior is a prominent software engineer and technology leader based in Richmond, Virginia, described as a 'multi-dis
 - [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) — Ford has an active but inconsistent fitness life. He describes it as one of the most "disjointed" areas of his life and 
-- [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is actively searching for a new home in the Richmond, VA area. As of April 2026 he is living with his parents tempo
+- [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is actively searching for a home in Richmond, VA. His criteria span practical logistics, community culture, and chi
 - [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md) — Ford's relationship with entertainment media is selective and taste-driven rather than broadly enthusiastic. He does not
 - [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md) — Sailing is a significant family hobby and seasonal tradition for Ford. The anchor of this activity is his parents' prope
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) — Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San D
@@ -79,7 +79,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (26)
+### wiki (29)
 
 - [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
@@ -95,6 +95,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) 
 - [Trixie](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/trixie.md) 
 - [Wesley](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md) 
+- [Find a Home in Richmond](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/goals/find-home-richmond.md) 
 - [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) 
 - [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md) 
 - [Voice memo — Um, also, can you add a little bit about how I love to Um, hang out with my 3 ki](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-200349-135.md) 
@@ -107,6 +108,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — Same](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md) 
 - [Voice memo — All right, so a couple of quick details about my exercise routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md) 
 - [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md) 
+- [Community Energy](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/community-energy.md) 
+- [Kids First](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/kids-first.md) 
 
 ### writing (1)
 
