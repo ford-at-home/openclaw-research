@@ -1,0 +1,12 @@
+{
+  "msg_id": "438",
+  "ingest_timestamp": "2026-04-22T10:44:01Z",
+  "source_platform": "telegram",
+  "channel_jid": "8428154523@s.telegram.org",
+  "audio_filename": "438.ogg",
+  "audio_size_bytes": 256139,
+  "audio_sha256": "8adbc38880bb5c7f1b94814fd3b1f1a8dbcf6b1a89a6546e6d2d78b6c55ea6e1",
+  "transcription_engine": "faster-whisper",
+  "transcription_model": "base",
+  "ingest_id": "openclaw-voice-20260422T104401-438"
+}
