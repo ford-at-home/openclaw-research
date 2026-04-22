@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-22 10:42 UTC  
-**Total documents:** 53
+**Last indexed:** 2026-04-22 10:46 UTC  
+**Total documents:** 54
 
 ## Recent Research
 
@@ -79,7 +79,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (25)
+### wiki (26)
 
 - [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
@@ -106,6 +106,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — Add that I Don't really love movies](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-11-031252-194.md) 
 - [Voice memo — Same](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md) 
 - [Voice memo — All right, so a couple of quick details about my exercise routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md) 
+- [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md) 
 
 ### writing (1)
 
