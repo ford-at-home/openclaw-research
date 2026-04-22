@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-22T10:50:17Z",
-  "total": 57,
+  "last_synchronized": "2026-04-22T10:52:57Z",
+  "total": 58,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -514,6 +514,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/aws-marketplace-monetization-guide.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/aws-marketplace-monetization-guide.md"
+    },
+    {
+      "filename": "research/synthetic-user-testing/01-existing-platforms.md",
+      "title": "Synthetic user testing platforms with AI agents and customizable personas evaluating software products - open source and commercial solutions 2024-2025: AgentBench, WebArena, OSWorld, BrowserGym, Playwright AI agents, UI-JEPA, existing products like UserTesting AI, Maze, Hotjar AI - capability analysis, maturity, limitations",
+      "query": "Synthetic user testing platforms with AI agents and customizable personas evaluating software products - open source and commercial solutions 2024-2025: AgentBench, WebArena, OSWorld, BrowserGym, Playwright AI agents, UI-JEPA, existing products like UserTesting AI, Maze, Hotjar AI - capability analysis, maturity, limitations",
+      "processor": "ultra-fast",
+      "date": "2026-04-22",
+      "category": "research",
+      "subcategory": "synthetic-user-testing",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "trun_3cad0ebea15c480ebaca95050087bdcd",
+      "summary": "The landscape of user testing underwent a fundamental transformation between 2024 and 2025, shifting from purely human-driven panels to hybrid models incorporating autonomous AI agents. This evolution is defined by a critical pivot from brittle, DOM-",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/01-existing-platforms.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/synthetic-user-testing/01-existing-platforms.md"
     },
     {
       "filename": "voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md",
