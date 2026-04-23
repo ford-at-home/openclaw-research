@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-22T10:55:12Z",
-  "total": 61,
+  "last_synchronized": "2026-04-23T12:35:11Z",
+  "total": 62,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -466,6 +466,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-22-104401-438.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-23-123131-448.md",
+      "title": "Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa",
+      "query": "Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "_Integration pass pending._",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-23-123131-448.md"
     },
     {
       "filename": "wiki/values/community-energy.md",

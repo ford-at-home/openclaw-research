@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-22 10:55 UTC  
-**Total documents:** 61
+**Last indexed:** 2026-04-23 12:35 UTC  
+**Total documents:** 62
 
 ## Recent Research
 
@@ -83,7 +83,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (29)
+### wiki (30)
 
 - [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
@@ -112,6 +112,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — Same](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md) 
 - [Voice memo — All right, so a couple of quick details about my exercise routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md) 
 - [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md) 
+- [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md) 
 - [Community Energy](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/community-energy.md) 
 - [Kids First](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/kids-first.md) 
 
