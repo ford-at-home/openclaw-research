@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-22T10:49:57Z"
+last_updated: "2026-04-27T08:16:17Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-22T10:49:57Z_
+_Last updated: 2026-04-27T08:16:17Z_
 
 ## Sources
 
@@ -20,6 +20,8 @@ _Last updated: 2026-04-22T10:49:57Z_
 - [Voice memo — Same](wiki/source/2026-04-12-112711-200.md)
 - [Voice memo — All right, so a couple of quick details about my exercise routine](wiki/source/2026-04-14-133823-215.md)
 - [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](wiki/source/2026-04-22-104401-438.md)
+- [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](wiki/source/2026-04-23-123131-448.md)
+- [Voice memo — I had to my knowledge base onto James Bass and University](wiki/source/2026-04-27-081544-462.md)
 
 ## Concepts
 
@@ -39,4 +41,4 @@ _Last updated: 2026-04-22T10:49:57Z_
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
 
-**Total pages:** 22
+**Total pages:** 24
