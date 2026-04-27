@@ -1,12 +1,12 @@
 ---
 page_type: index
 title: "Wiki Index"
-last_updated: "2026-04-27T08:16:17Z"
+last_updated: "2026-04-27T11:24:07Z"
 ---
 
 # Wiki Index
 
-_Last updated: 2026-04-27T08:16:17Z_
+_Last updated: 2026-04-27T11:24:07Z_
 
 ## Sources
 
@@ -22,10 +22,12 @@ _Last updated: 2026-04-27T08:16:17Z_
 - [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](wiki/source/2026-04-22-104401-438.md)
 - [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](wiki/source/2026-04-23-123131-448.md)
 - [Voice memo — I had to my knowledge base onto James Bass and University](wiki/source/2026-04-27-081544-462.md)
+- [Voice memo — I went to James Madison University and graduated with my wife the same year](wiki/source/2026-04-27-112314-483.md)
 
 ## Concepts
 
 - [Fitness Routine](wiki/concept/fitness-routine.md)
+- [Geographic Arc](wiki/concept/geographic-arc.md)
 - [Home-Buying Search](wiki/concept/home-buying-search.md)
 - [Media Preferences](wiki/concept/media-preferences.md)
 - [Sailing Life](wiki/concept/sailing-life.md)
@@ -35,10 +37,12 @@ _Last updated: 2026-04-27T08:16:17Z_
 ## Entities
 
 - [April](wiki/entity/april.md)
+- [James Madison University (JMU)](wiki/entity/james-madison-university.md)
 - [Rio (Gabriel)](wiki/entity/rio.md)
 - [Shawn](wiki/entity/shawn.md)
 - [Thadeus](wiki/entity/thadeus.md)
 - [Trixie](wiki/entity/trixie.md)
 - [Wesley](wiki/entity/wesley.md)
+- [Wife](wiki/entity/wife.md)
 
-**Total pages:** 24
+**Total pages:** 28
