@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-27T08:17:36Z",
-  "total": 65,
+  "last_synchronized": "2026-04-27T11:24:18Z",
+  "total": 68,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -66,6 +66,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/fitness-routine.md"
+    },
+    {
+      "filename": "wiki/concept/geographic-arc.md",
+      "title": "Geographic Arc",
+      "query": "Geographic Arc",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "concept",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's residential history follows a clear arc from college town → Sun Belt city → international → current home in Richmond, VA.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/geographic-arc.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/concept/geographic-arc.md"
     },
     {
       "filename": "wiki/concept/home-buying-search.md",
@@ -298,6 +314,22 @@
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/wesley.md"
     },
     {
+      "filename": "wiki/entity/wife.md",
+      "title": "Wife",
+      "query": "Wife",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford's wife. She and Ford met at James Madison University, where they were together as girlfriend and boyfriend and graduated in the same year. After graduation they relocated together from Harrisonburg, VA to Raleigh, NC, and eventually settled in R",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wife.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/wife.md"
+    },
+    {
       "filename": "wiki/goals/find-home-richmond.md",
       "title": "Find a Home in Richmond",
       "query": "Find a Home in Richmond",
@@ -324,7 +356,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "_Last updated: 2026-04-27T08:16:17Z_",
+      "summary": "_Last updated: 2026-04-27T11:24:07Z_",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/index.md"
@@ -523,8 +555,8 @@
     },
     {
       "filename": "wiki/source/2026-04-27-081544-462.md",
-      "title": "Voice memo — James Madison University",
-      "query": "Voice memo — James Madison University",
+      "title": "Voice memo — I had to my knowledge base onto James Bass and University",
+      "query": "Voice memo — I had to my knowledge base onto James Bass and University",
       "processor": "unknown",
       "date": "unknown",
       "category": "wiki",
@@ -532,10 +564,26 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford attended James Madison University (JMU). Transcription error rendered \"James Madison University\" as \"James Bass and University\" — corrected manually.",
+      "summary": "Ford noted JMU (James Madison University) as part of his knowledge base. See the more detailed follow-up memo for full context.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-27-081544-462.md"
+    },
+    {
+      "filename": "wiki/source/2026-04-27-112314-483.md",
+      "title": "Voice memo — I went to James Madison University and graduated with my wife the same year",
+      "query": "Voice memo — I went to James Madison University and graduated with my wife the same year",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "source",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford attended James Madison University and graduated the same year as his wife (then girlfriend). After graduating, the couple moved from Harrisonburg, VA down to Raleigh, NC.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-27-112314-483.md"
     },
     {
       "filename": "wiki/values/community-energy.md",

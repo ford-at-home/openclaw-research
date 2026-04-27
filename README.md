@@ -10,8 +10,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild INDEX.md manually |
 
-**Last indexed:** 2026-04-27 08:17 UTC  
-**Total documents:** 65
+**Last indexed:** 2026-04-27 11:24 UTC  
+**Total documents:** 68
 
 ## Recent Research
 
@@ -19,12 +19,12 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Ford Prior Career Deep Research](https://github.com/ford-at-home/openclaw-research/blob/main/ford-prior-career-deep-research.md) — Ford Prior is a prominent software engineer and technology leader based in Richmond, Virginia, described as a 'multi-dis
 - [Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md) — \n## Education\n\n- Attended James Madison University (JMU), Harrisonburg, VA
 - [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) — Ford has an active but inconsistent fitness life. He describes it as one of the most "disjointed" areas of his life and 
+- [Geographic Arc](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/geographic-arc.md) — Ford's residential history follows a clear arc from college town → Sun Belt city → international → current home in Richm
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) — Ford is actively searching for a home in Richmond, VA. His criteria span practical logistics, community culture, and chi
 - [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md) — Ford's relationship with entertainment media is selective and taste-driven rather than broadly enthusiastic. He does not
 - [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md) — Sailing is a significant family hobby and seasonal tradition for Ford. The anchor of this activity is his parents' prope
 - [Social Circle](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/social-circle.md) — Ford's named close social circle currently consists of three people: April (Richmond), Wesley (Austin), and Shawn (San D
 - [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md) — Ford engages with the Richmond tech community through workshops — both as a facilitator and as a learner. Workshops are 
-- [April](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/april.md) — April is one of Ford's closest and most frequently seen friends. She lives in Richmond, VA, which makes her the most geo
 
 ## By Category
 
@@ -84,9 +84,10 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice note — Hey, can you research](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md) `2026-04-10`
 - [Voice note — Testing, testing](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md) `2026-04-09`
 
-### wiki (32)
+### wiki (35)
 
 - [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md) 
+- [Geographic Arc](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/geographic-arc.md) 
 - [Home-Buying Search](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/home-buying-search.md) 
 - [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md) 
 - [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md) 
@@ -101,6 +102,7 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [OpenClaw](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/tool/openclaw.md) 
 - [Trixie](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/trixie.md) 
 - [Wesley](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wesley.md) 
+- [Wife](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wife.md) 
 - [Find a Home in Richmond](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/goals/find-home-richmond.md) 
 - [Wiki Index](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/index.md) 
 - [Voice memo — Also add that I'm doing an Open claw workshop and I'm trying to learn more about](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md) 
@@ -115,7 +117,8 @@ Research library for the OpenClaw AI assistant. Published automatically via `res
 - [Voice memo — All right, so a couple of quick details about my exercise routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md) 
 - [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md) 
 - [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md) 
-- [Voice memo — James Madison University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md) 
+- [Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md) 
+- [Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md) 
 - [Community Energy](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/community-energy.md) 
 - [Kids First](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/kids-first.md) 
 
