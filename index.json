@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_synchronized": "2026-04-27T08:16:28Z",
-  "total": 63,
+  "last_synchronized": "2026-04-27T08:17:36Z",
+  "total": 65,
   "corpus": [
     {
       "filename": "CLAUDE.md",
@@ -34,6 +34,22 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/ford-prior-career-deep-research.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/ford-prior-career-deep-research.md"
+    },
+    {
+      "filename": "personal/will-prior.md",
+      "title": "Will Prior",
+      "query": "Will Prior",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "personal",
+      "subcategory": "",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "\\n## Education\\n\\n- Attended James Madison University (JMU), Harrisonburg, VA",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
     },
     {
       "filename": "wiki/concept/fitness-routine.md",
@@ -162,6 +178,28 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/hardware/mac-mini.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/hardware/mac-mini.md"
+    },
+    {
+      "filename": "wiki/entity/james-madison-university.md",
+      "title": "James Madison University (JMU)",
+      "query": "James Madison University (JMU)",
+      "processor": "unknown",
+      "date": "unknown",
+      "category": "wiki",
+      "subcategory": "entity",
+      "status": "draft",
+      "confidence": "unknown",
+      "run_id": "",
+      "summary": "Ford attended James Madison University in Harrisonburg, VA.",
+      "tags": [
+        "education",
+        "university",
+        "jmu",
+        "virginia",
+        "undergraduate"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/entity/james-madison-university.md"
     },
     {
       "filename": "wiki/entity/rio.md",
@@ -485,8 +523,8 @@
     },
     {
       "filename": "wiki/source/2026-04-27-081544-462.md",
-      "title": "Voice memo — I had to my knowledge base onto James Bass and University",
-      "query": "Voice memo — I had to my knowledge base onto James Bass and University",
+      "title": "Voice memo — James Madison University",
+      "query": "Voice memo — James Madison University",
       "processor": "unknown",
       "date": "unknown",
       "category": "wiki",
@@ -494,7 +532,7 @@
       "status": "draft",
       "confidence": "unknown",
       "run_id": "",
-      "summary": "Ford recorded a brief memo indicating he wanted to add something to his knowledge base related to \"James Bass and University\" — most likely a reference to a location in Richmond, VA (the James River basin area near the Bass / University corridor, or ",
+      "summary": "Ford attended James Madison University (JMU). Transcription error rendered \"James Madison University\" as \"James Bass and University\" — corrected manually.",
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/2026-04-27-081544-462.md"
