@@ -1,3 +1,14 @@
+---
+title: "Ford Prior — Career Deep Research"
+category: "personal"
+subcategory: "profile"
+tags: [ford, profile, career, geico, aws, capital-one, carmax, richmond, deep-research]
+date: "2026-04-19"
+status: "final"
+confidence: "medium"
+source: "parallel-ai deep research"
+---
+
 # Person Summary
 
 Ford Prior is a prominent software engineer and technology leader based in Richmond, Virginia, described as a 'multi-disciplinary cloud ninja & tech evangelist.' As of late 2025, he holds the position of Senior Staff Engineer & Tech Evangelist at GEICO, where he works in an innovation lab. His career includes significant engineering roles at major tech companies, including being a former engineer at Amazon Web Services (AWS), a Principal Cloud Engineer at CarMax, and a Principal Engineer at Capital One. Beyond his corporate roles, Prior is a central figure in the Richmond tech community. He is the host or co-host of the 'RVA Tech Talks' podcast, co-chairs the 'rvatech/ Code & Cloud Conference,' and leads the 'Richmond Cloud Wranglers' user group, which serves local AWS, GCP, and Azure professionals. He is a frequent speaker at tech meetups, having presented original content at numerous events.

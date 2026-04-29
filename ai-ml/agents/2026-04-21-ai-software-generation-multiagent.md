@@ -1,4 +1,10 @@
 ---
+title: "From Prompt to Production: The 2026 State of Autonomous AI Software Engineering"
+category: "ai-ml"
+subcategory: "agents"
+tags: [agents, multi-agent, devin, swe-agent, opendevin, crewai, langgraph, autonomous-coding]
+status: "final"
+confidence: "medium"
 query: "AI-driven software generation and multi-agent development systems: Devin SWE-agent OpenDevin Cognition AutoGPT CrewAI LangGraph agent swarms for autonomous code generation and full-stack app building - capability analysis, maturity, limitations, end-to-end idea to deployment workflows"
 processor: ultra-fast
 run_id: trun_3cad0ebea15c480eab538266de5819e0

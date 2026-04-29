@@ -1,4 +1,10 @@
 ---
+title: "Simulating the Unknown: Architecting Resilient Innovation Labs with Synthetic Traffic and Chaos Engineering"
+category: "software-engineering"
+subcategory: "testing"
+tags: [synthetic-data, chaos-engineering, simulation, gretel, mostly-ai, tonic, ephemeral-envs, sandboxes]
+status: "final"
+confidence: "medium"
 query: "Synthetic data platforms traffic simulation and innovation lab sandbox environments: Gretel Mostly AI Tonic YData - chaos engineering tools traffic simulation load testing - enterprise innovation labs skunkworks environments isolated experimentation platforms - AWS sandbox Azure dev environments ephemeral environment tools Env0 Terraform Pulumi"
 processor: ultra-fast
 run_id: trun_3cad0ebea15c480ead21a00952d401e5

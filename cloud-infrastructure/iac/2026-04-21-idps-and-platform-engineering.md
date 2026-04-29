@@ -1,4 +1,10 @@
 ---
+title: "Navigating the IDP Jungle: A 2026 Strategic Guide to Platform Engineering Maturity"
+category: "cloud-infrastructure"
+subcategory: "iac"
+tags: [idp, platform-engineering, backstage, humanitec, port, cortex, crossplane, kratix]
+status: "final"
+confidence: "medium"
 query: "Innovation sandbox jungle platform: existing IDPs internal developer platforms and platform engineering toolkits - Backstage Humanitec Port Cortex Crossplane Kratix - capability analysis, maturity, architectural patterns, failure modes, enterprise implementations at large companies"
 processor: ultra-fast
 run_id: trun_3cad0ebea15c480e82f9c9f46cf1666b

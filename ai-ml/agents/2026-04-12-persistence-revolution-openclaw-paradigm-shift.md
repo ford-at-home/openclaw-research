@@ -1,4 +1,10 @@
 ---
+title: "The Persistence Revolution: Why OpenClaw and Git-Backed State Signal the End of Ephemeral AI"
+category: "ai-ml"
+subcategory: "agents"
+tags: [agents, persistent-state, openclaw, langchain, autogpt, git-backed-state, paradigm-shift]
+status: "final"
+confidence: "medium"
 query: "Comprehensive architectural analysis: Is OpenClaw and persistent-state LLM agent frameworks a paradigm shift vs incremental evolution over Zapier n8n LangChain AutoGPT BabyAGI - historical baseline workflow automation early agent frameworks stateful vs stateless execution DAG pipelines vs emergent loop-based workflows Git-backed state version control enabling conditions LLM capability improvements context windows inference costs counterarguments skepticism synthesis"
 processor: ultra-fast
 run_id: trun_3cad0ebea15c480e9adf46090f4c1d94

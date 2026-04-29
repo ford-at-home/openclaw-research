@@ -1,4 +1,10 @@
 ---
+title: "The Autonomous Innovation Stack: Bridging the Gap from Trend Detection to Deployed Product in 2026"
+category: "business-strategy"
+subcategory: "competitive-analysis"
+tags: [ideation, trend-scanning, product-hunt, gartner, market-gaps, opportunity-discovery]
+status: "final"
+confidence: "medium"
 query: "Product ideation trend scanning bazaar marketplace systems: AI product idea generators trend detection platforms internet scraping for opportunity discovery - idea ranking community voting mechanisms - ProductHunt Gartner Hype Cycle trend tools - research and ideation engines synthesis pipelines - market gaps in integrated idea-to-prototype-to-deployment platforms - novel category or emerging convergence"
 processor: ultra-fast
 run_id: trun_3cad0ebea15c480e82a556da6f3c1c92

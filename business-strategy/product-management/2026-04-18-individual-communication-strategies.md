@@ -1,4 +1,10 @@
 ---
+title: "The Communication Strategy Playbook: Evidence-Based Frameworks for Optimizing Interpersonal Influence and Relationship Quality"
+category: "business-strategy"
+subcategory: "product-management"
+tags: [communication, active-listening, nvc, behavioral-skills-training, habit-formation, psychology]
+status: "final"
+confidence: "medium"
 query: "Individual communication strategies - psychological frameworks for optimizing interpersonal communication, how people reason about and improve their own communication style, cognitive and behavioral models, evidence-based techniques"
 processor: ultra-fast
 run_id: trun_3cad0ebea15c480e8d26485347507e89
