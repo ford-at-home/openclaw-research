@@ -11,7 +11,7 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild this file via `scripts/build-index.py` |
 
-**Last indexed:** 2026-04-29 10:57 UTC  
+**Last indexed:** 2026-04-29 12:51 UTC  
 **Total documents:** 66  
 **Content types:** local-research, personal, research, voice-notes, wiki-concept, wiki-entity, wiki-goal, wiki-source, wiki-value, writing
 
