@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-04-29T12:51:28Z",
-  "total": 66,
+  "last_synchronized": "2026-04-29T13:05:54Z",
+  "total": 70,
   "content_types": [
     "local-research",
     "personal",
@@ -23,6 +23,26 @@
       "personal/2026-04-19-ford-prior-tech-career-story.md",
       "personal/ford-prior.md"
     ],
+    "wiki-source": [
+      "wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",
+      "wiki/source/transcripts/mom-memory-box-1.md",
+      "wiki/source/transcripts/rtt-spacex-ama.md",
+      "wiki/source/transcripts/will-tech-career-narrative.md",
+      "wiki/source/2026-04-27-081544-462.md",
+      "wiki/source/2026-04-27-112314-483.md",
+      "wiki/source/2026-04-23-123131-448.md",
+      "wiki/source/2026-04-22-104401-438.md",
+      "wiki/source/2026-04-14-133823-215.md",
+      "wiki/source/2026-04-12-112711-200.md",
+      "wiki/source/2026-04-11-031252-194.md",
+      "wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md",
+      "wiki/source/2026-04-10-200349-135.md",
+      "wiki/source/2026-04-10-200646-138.md",
+      "wiki/source/2026-04-10-201027-153.md",
+      "wiki/source/2026-04-10-204442-157.md",
+      "wiki/source/2026-04-10-221032-174.md",
+      "wiki/source/2026-04-10-224716-188.md"
+    ],
     "wiki-concept": [
       "wiki/concept/geographic-arc.md",
       "wiki/concept/home-buying-search.md",
@@ -43,22 +63,6 @@
       "wiki/entity/tool/openclaw.md",
       "wiki/entity/trixie.md",
       "wiki/entity/wesley.md"
-    ],
-    "wiki-source": [
-      "wiki/source/2026-04-27-081544-462.md",
-      "wiki/source/2026-04-27-112314-483.md",
-      "wiki/source/2026-04-23-123131-448.md",
-      "wiki/source/2026-04-22-104401-438.md",
-      "wiki/source/2026-04-14-133823-215.md",
-      "wiki/source/2026-04-12-112711-200.md",
-      "wiki/source/2026-04-11-031252-194.md",
-      "wiki/source/2026/04/10/138-openclaw-workshop-mac-mini.md",
-      "wiki/source/2026-04-10-200349-135.md",
-      "wiki/source/2026-04-10-200646-138.md",
-      "wiki/source/2026-04-10-201027-153.md",
-      "wiki/source/2026-04-10-204442-157.md",
-      "wiki/source/2026-04-10-221032-174.md",
-      "wiki/source/2026-04-10-224716-188.md"
     ],
     "local-research": [
       "research/aws-marketplace-monetization-guide.md",
@@ -120,6 +124,90 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
+    },
+    {
+      "filename": "wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",
+      "title": "Transcript - Dad Memory Box 1",
+      "content_type": "wiki-source",
+      "category": "source",
+      "subcategory": "",
+      "date": "2026-04-29",
+      "query": "",
+      "processor": "",
+      "status": "",
+      "confidence": "",
+      "run_id": "",
+      "page_type": "source",
+      "summary": "_Awaiting integration. See raw transcript below._",
+      "tags": [
+        "transcript",
+        "otter-ai"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md"
+    },
+    {
+      "filename": "wiki/source/transcripts/mom-memory-box-1.md",
+      "title": "Transcript - Mom Memory Box 1",
+      "content_type": "wiki-source",
+      "category": "source",
+      "subcategory": "",
+      "date": "2026-04-29",
+      "query": "",
+      "processor": "",
+      "status": "",
+      "confidence": "",
+      "run_id": "",
+      "page_type": "source",
+      "summary": "_Awaiting integration. See raw transcript below._",
+      "tags": [
+        "transcript",
+        "otter-ai"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/transcripts/mom-memory-box-1.md"
+    },
+    {
+      "filename": "wiki/source/transcripts/rtt-spacex-ama.md",
+      "title": "Transcript - RTT SpaceX AMA",
+      "content_type": "wiki-source",
+      "category": "source",
+      "subcategory": "",
+      "date": "2026-04-29",
+      "query": "",
+      "processor": "",
+      "status": "",
+      "confidence": "",
+      "run_id": "",
+      "page_type": "source",
+      "summary": "_Awaiting integration. See raw transcript below._",
+      "tags": [
+        "transcript",
+        "otter-ai"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/transcripts/rtt-spacex-ama.md"
+    },
+    {
+      "filename": "wiki/source/transcripts/will-tech-career-narrative.md",
+      "title": "Transcript - Tech Career Narrative",
+      "content_type": "wiki-source",
+      "category": "source",
+      "subcategory": "",
+      "date": "2026-04-29",
+      "query": "",
+      "processor": "",
+      "status": "",
+      "confidence": "",
+      "run_id": "",
+      "page_type": "source",
+      "summary": "_Awaiting integration. See raw transcript below._",
+      "tags": [
+        "transcript",
+        "otter-ai"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/will-tech-career-narrative.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/wiki/source/transcripts/will-tech-career-narrative.md"
     },
     {
       "filename": "wiki/concept/geographic-arc.md",

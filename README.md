@@ -11,22 +11,22 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild this file via `scripts/build-index.py` |
 
-**Last indexed:** 2026-04-29 12:51 UTC  
-**Total documents:** 66  
+**Last indexed:** 2026-04-29 13:05 UTC  
+**Total documents:** 70  
 **Content types:** local-research, personal, research, voice-notes, wiki-concept, wiki-entity, wiki-goal, wiki-source, wiki-value, writing
 
 ## Recent additions
 
 - `2026-04-29` **[Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)** — _Personal KB_
+- `2026-04-29` **[Transcript - Dad Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
+- `2026-04-29` **[Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
+- `2026-04-29` **[Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md)** — _Wiki — Sources (voice memos / messages)_
+- `2026-04-29` **[Transcript - Tech Career Narrative](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/will-tech-career-narrative.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-27` **[Geographic Arc](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/geographic-arc.md)** — _Wiki — Concepts_
 - `2026-04-27` **[James Madison University (JMU)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md)** — _Wiki — Entities_
 - `2026-04-27` **[Wife](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wife.md)** — _Wiki — Entities_
 - `2026-04-27` **[Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-27` **[Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md)** — _Wiki — Sources (voice memos / messages)_
-- `2026-04-23` **[Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md)** — _Wiki — Sources (voice memos / messages)_
-- `2026-04-22` **[AWS Marketplace 2024-2025: how to deploy and manage CloudFormation and CDK stacks, selling software products, SaaS listings, AMIs - monetization strategies, pricing models, seller requirements, revenue share, management tools, go-to-market, business case studies and success patterns](https://github.com/ford-at-home/openclaw-research/blob/main/research/aws-marketplace-monetization-guide.md)** — _Local / Topical Research_
-- `2026-04-22` **[Synthetic user testing platforms with AI agents and customizable personas evaluating software products - open source and commercial solutions 2024-2025: AgentBench, WebArena, OSWorld, BrowserGym, Playwright AI agents, UI-JEPA, existing products like UserTesting AI, Maze, Hotjar AI - capability analysis, maturity, limitations](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/01-existing-platforms.md)** — _Local / Topical Research_
-- `2026-04-22` **[AI computer use for automated UI testing and product evaluation - Anthropic Claude computer use API, OpenAI computer use, Claude SDK tool use for browser automation - agent personas for UX research, simulated user behavior, clickstream generation, form filling, navigation testing - technical capabilities and limitations 2024-2025](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/02-ai-computer-use-tech.md)** — _Local / Topical Research_
 
 ## Research Library (10)
 
@@ -99,8 +99,12 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 
 - `2026-04-22` [Find a Home in Richmond](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/goals/find-home-richmond.md)
 
-## Wiki — Sources (voice memos / messages) (14)
+## Wiki — Sources (voice memos / messages) (18)
 
+- `2026-04-29` [Transcript - Dad Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md)
+- `2026-04-29` [Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md)
+- `2026-04-29` [Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md)
+- `2026-04-29` [Transcript - Tech Career Narrative](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/will-tech-career-narrative.md)
 - `2026-04-27` [Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md)
 - `2026-04-27` [Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md)
 - `2026-04-23` [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md)
@@ -257,6 +261,7 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - **opportunity-discovery** — [The Autonomous Innovation Stack: Bridging the Gap from Trend Detection to Deployed Product in 2026](https://github.com/ford-at-home/openclaw-research/blob/main/business-strategy/competitive-analysis/2026-04-21-ideation-trend-scanning-market-gaps.md)
 - **opti** — [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md), [Rio (Gabriel)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/rio.md), [Thadeus](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/thadeus.md), [Voice memo — Same](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-12-112711-200.md)
 - **origin-story** — [Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md)
+- **otter-ai** — [Transcript - Dad Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md), [Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md), [Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md), [Transcript - Tech Career Narrative](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/will-tech-career-narrative.md)
 - **paddleboard** — [Sailing Life](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/sailing-life.md)
 - **paradigm-shift** — [The Persistence Revolution: Why OpenClaw and Git-Backed State Signal the End of Ephemeral AI](https://github.com/ford-at-home/openclaw-research/blob/main/ai-ml/agents/2026-04-12-persistence-revolution-openclaw-paradigm-shift.md)
 - **parenting** — [Kids First](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/values/kids-first.md)
@@ -318,6 +323,7 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - **the-matrix** — [Media Preferences](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/media-preferences.md), [Voice memo — Add that I Don't really love movies](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-11-031252-194.md)
 - **thought-leadership** — [Workshop Hosting & Participation](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/workshop-hosting.md)
 - **tonic** — [Simulating the Unknown: Architecting Resilient Innovation Labs with Synthetic Traffic and Chaos Engineering](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/testing/2026-04-21-synthetic-data-sandboxes-simulation.md)
+- **transcript** — [Transcript - Dad Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md), [Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md), [Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md), [Transcript - Tech Career Narrative](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/will-tech-career-narrative.md)
 - **trend-scanning** — [The Autonomous Innovation Stack: Bridging the Gap from Trend Detection to Deployed Product in 2026](https://github.com/ford-at-home/openclaw-research/blob/main/business-strategy/competitive-analysis/2026-04-21-ideation-trend-scanning-market-gaps.md)
 - **trixie** — [Voice memo — I have 3 kids](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-224716-188.md)
 - **undergraduate** — [James Madison University (JMU)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md)
