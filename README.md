@@ -11,14 +11,15 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild this file via `scripts/build-index.py` |
 
-**Last indexed:** 2026-05-01 11:14 UTC  
-**Total documents:** 71  
+**Last indexed:** 2026-05-01 21:39 UTC  
+**Total documents:** 72  
 **Content types:** local-research, personal, research, voice-notes, wiki-concept, wiki-entity, wiki-goal, wiki-source, wiki-value, writing
 
 ## Recent additions
 
 - `2026-05-01` **[Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)** — _Personal KB_
 - `2026-05-01` **[Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md)** — _Local / Topical Research_
+- `2026-05-01` **[Voice note — research Chinese large-language model innovation strategy](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md)** — _Voice notes (legacy)_
 - `2026-04-29` **[Transcript - Dad Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-29` **[Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-29` **[Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md)** — _Wiki — Sources (voice memos / messages)_
@@ -26,7 +27,6 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - `2026-04-27` **[Geographic Arc](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/geographic-arc.md)** — _Wiki — Concepts_
 - `2026-04-27` **[James Madison University (JMU)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md)** — _Wiki — Entities_
 - `2026-04-27` **[Wife](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wife.md)** — _Wiki — Entities_
-- `2026-04-27` **[Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md)** — _Wiki — Sources (voice memos / messages)_
 
 ## Research Library (10)
 
@@ -134,8 +134,9 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 
 - `2026-04-14` [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
 
-## Voice notes (legacy) (9)
+## Voice notes (legacy) (10)
 
+- `2026-05-01` [Voice note — research Chinese large-language model innovation strategy](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md)
 - `2026-04-22` [Voice note — do some of the research for me on the latest on AWS marketplace and how to deplo](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md)
 - `2026-04-19` [Voice note — Tested on this audio file](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/19/2026-04-19-205200-tested-on-this-audio-file.md)
 - `2026-04-18` [Voice note — Do some deep research on](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md)
@@ -331,7 +332,7 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - **university** — [James Madison University (JMU)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md)
 - **virginia** — [James Madison University (JMU)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md)
 - **voice-memo** — [Building a Personal AI Assistant on AWS](https://github.com/ford-at-home/openclaw-research/blob/main/writing/building-personal-ai-assistant-on-aws.md)
-- **voice-note** — [Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md), [Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md), [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md), [Voice note — do some of the research for me on the latest on AWS marketplace and how to deplo](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md), [Voice memo — add to my knowledge base that some stuff about what I care about in terms of nei](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-22-104401-438.md) _+18 more_
+- **voice-note** — [Voice note — research Chinese large-language model innovation strategy](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md), [Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md), [Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md), [Voice memo — add to my knowledge base that we spent two years in Costa Rica with the whole fa](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-23-123131-448.md), [Voice note — do some of the research for me on the latest on AWS marketplace and how to deplo](https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md) _+19 more_
 - **weight-loss** — [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md), [Voice memo — All right, so a couple of quick details about my exercise routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-14-133823-215.md)
 - **weightlifting** — [Fitness Routine](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/fitness-routine.md)
 - **wesley** — [Voice memo — OK, so also add that I have 3](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-201027-153.md), [Voice memo — I have some more friends too, um](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-10-204442-157.md)

@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-01T11:14:09Z",
-  "total": 71,
+  "last_synchronized": "2026-05-01T21:39:21Z",
+  "total": 72,
   "content_types": [
     "local-research",
     "personal",
@@ -31,6 +31,18 @@
       "research/synthetic-user-testing/03-persona-simulation-methodology.md",
       "research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md",
       "richmond/downtown-rentals-under-2k.md"
+    ],
+    "voice-notes": [
+      "voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md",
+      "voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md",
+      "voice-notes/2026/04/19/2026-04-19-205200-tested-on-this-audio-file.md",
+      "voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
+      "voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md",
+      "voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md",
+      "voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md",
+      "voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md",
+      "voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md",
+      "voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md"
     ],
     "wiki-source": [
       "wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",
@@ -72,17 +84,6 @@
       "wiki/entity/tool/openclaw.md",
       "wiki/entity/trixie.md",
       "wiki/entity/wesley.md"
-    ],
-    "voice-notes": [
-      "voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md",
-      "voice-notes/2026/04/19/2026-04-19-205200-tested-on-this-audio-file.md",
-      "voice-notes/2026/04/18/2026-04-18-204600-do-some-deep-research-on-like-communication-strategies-um-in.md",
-      "voice-notes/2026/04/11/2026-04-11-031100-research-great-places-to-rent-a-house-um-i-would-have-the-ki.md",
-      "voice-notes/2026/04/10/2026-04-10-001600-research-for-me-the-origin-of-life.md",
-      "voice-notes/2026/04/10/2026-04-10-105900-ok-so-let-s-test-it-my-name-is-ford-pryor-and-i-m-37-years-o.md",
-      "voice-notes/2026/04/10/2026-04-10-163300-uh-let-s-see-what-happens-when-you-say-when-you-add-in-that.md",
-      "voice-notes/2026/04/10/2026-04-10-220900-hey-can-you-research-um-great-places-to-raise-families-um-th.md",
-      "voice-notes/2026/04/09/2026-04-09-172400-testing-testing-123-my-name-is-ford-and-i-live-in-richmond.md"
     ],
     "wiki-goal": [
       "wiki/goals/find-home-richmond.md"
@@ -143,6 +144,26 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/underground-neighborhood-cultures.md"
+    },
+    {
+      "filename": "voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md",
+      "title": "Voice note — research Chinese large-language model innovation strategy",
+      "content_type": "voice-notes",
+      "category": "voice-notes",
+      "subcategory": "",
+      "date": "2026-05-01",
+      "query": "",
+      "processor": "",
+      "status": "",
+      "confidence": "",
+      "run_id": "",
+      "page_type": "",
+      "summary": "research Chinese large-language model innovation strategy.",
+      "tags": [
+        "voice-note"
+      ],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/voice-notes/2026/05/01/2026-05-01-213800-research-chinese-large-language-model-innovation-strategy.md"
     },
     {
       "filename": "wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",
