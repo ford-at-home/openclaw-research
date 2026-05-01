@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-04-29T13:05:54Z",
-  "total": 70,
+  "last_synchronized": "2026-05-01T11:14:09Z",
+  "total": 71,
   "content_types": [
     "local-research",
     "personal",
@@ -22,6 +22,15 @@
       "personal/2026-04-19-ford-prior-career-deep-research.md",
       "personal/2026-04-19-ford-prior-tech-career-story.md",
       "personal/ford-prior.md"
+    ],
+    "local-research": [
+      "research/richmond/underground-neighborhood-cultures.md",
+      "research/aws-marketplace-monetization-guide.md",
+      "research/synthetic-user-testing/01-existing-platforms.md",
+      "research/synthetic-user-testing/02-ai-computer-use-tech.md",
+      "research/synthetic-user-testing/03-persona-simulation-methodology.md",
+      "research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md",
+      "richmond/downtown-rentals-under-2k.md"
     ],
     "wiki-source": [
       "wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",
@@ -64,14 +73,6 @@
       "wiki/entity/trixie.md",
       "wiki/entity/wesley.md"
     ],
-    "local-research": [
-      "research/aws-marketplace-monetization-guide.md",
-      "research/synthetic-user-testing/01-existing-platforms.md",
-      "research/synthetic-user-testing/02-ai-computer-use-tech.md",
-      "research/synthetic-user-testing/03-persona-simulation-methodology.md",
-      "research/synthetic-user-testing/04-build-it-yourself-claude-sdk.md",
-      "richmond/downtown-rentals-under-2k.md"
-    ],
     "voice-notes": [
       "voice-notes/2026/04/22/2026-04-22-103000-do-some-of-the-research-for-me-on-the-latest-on-aws-marketpl.md",
       "voice-notes/2026/04/19/2026-04-19-205200-tested-on-this-audio-file.md",
@@ -113,7 +114,7 @@
       "content_type": "personal",
       "category": "personal",
       "subcategory": "",
-      "date": "2026-04-29",
+      "date": "2026-05-01",
       "query": "",
       "processor": "",
       "status": "",
@@ -124,6 +125,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
+    },
+    {
+      "filename": "research/richmond/underground-neighborhood-cultures.md",
+      "title": "Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-01",
+      "query": "Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions",
+      "processor": "ultra8x",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480e8417e79f2153323f",
+      "page_type": "",
+      "summary": "Richmond’s underground and DIY cultures are currently navigating a critical inflection point driven by rapid real estate development, shifting municipal policies, and post-pandemic social dynamics. The closure of legacy cultural incubators like Stran",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/underground-neighborhood-cultures.md"
     },
     {
       "filename": "wiki/source/transcripts/2022-08-02-dad-memory-box-1.md",

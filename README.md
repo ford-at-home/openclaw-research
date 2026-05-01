@@ -11,13 +11,14 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild this file via `scripts/build-index.py` |
 
-**Last indexed:** 2026-04-29 13:05 UTC  
-**Total documents:** 70  
+**Last indexed:** 2026-05-01 11:14 UTC  
+**Total documents:** 71  
 **Content types:** local-research, personal, research, voice-notes, wiki-concept, wiki-entity, wiki-goal, wiki-source, wiki-value, writing
 
 ## Recent additions
 
-- `2026-04-29` **[Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)** — _Personal KB_
+- `2026-05-01` **[Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)** — _Personal KB_
+- `2026-05-01` **[Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md)** — _Local / Topical Research_
 - `2026-04-29` **[Transcript - Dad Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/2022-08-02-dad-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-29` **[Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-29` **[Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md)** — _Wiki — Sources (voice memos / messages)_
@@ -26,7 +27,6 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - `2026-04-27` **[James Madison University (JMU)](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/james-madison-university.md)** — _Wiki — Entities_
 - `2026-04-27` **[Wife](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/entity/wife.md)** — _Wiki — Entities_
 - `2026-04-27` **[Voice memo — I had to my knowledge base onto James Bass and University](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-081544-462.md)** — _Wiki — Sources (voice memos / messages)_
-- `2026-04-27` **[Voice memo — I went to James Madison University and graduated with my wife the same year](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/2026-04-27-112314-483.md)** — _Wiki — Sources (voice memos / messages)_
 
 ## Research Library (10)
 
@@ -58,8 +58,9 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - `2026-04-21` [Simulating the Unknown: Architecting Resilient Innovation Labs with Synthetic Traffic and Chaos Engineering](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/testing/2026-04-21-synthetic-data-sandboxes-simulation.md) / testing
 - `2026-04-19` [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md) / architecture
 
-## Local / Topical Research (6)
+## Local / Topical Research (7)
 
+- `2026-05-01` [Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md)
 - `2026-04-22` [AWS Marketplace 2024-2025: how to deploy and manage CloudFormation and CDK stacks, selling software products, SaaS listings, AMIs - monetization strategies, pricing models, seller requirements, revenue share, management tools, go-to-market, business case studies and success patterns](https://github.com/ford-at-home/openclaw-research/blob/main/research/aws-marketplace-monetization-guide.md)
 - `2026-04-22` [Synthetic user testing platforms with AI agents and customizable personas evaluating software products - open source and commercial solutions 2024-2025: AgentBench, WebArena, OSWorld, BrowserGym, Playwright AI agents, UI-JEPA, existing products like UserTesting AI, Maze, Hotjar AI - capability analysis, maturity, limitations](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/01-existing-platforms.md)
 - `2026-04-22` [AI computer use for automated UI testing and product evaluation - Anthropic Claude computer use API, OpenAI computer use, Claude SDK tool use for browser automation - agent personas for UX research, simulated user behavior, clickstream generation, form filling, navigation testing - technical capabilities and limitations 2024-2025](https://github.com/ford-at-home/openclaw-research/blob/main/research/synthetic-user-testing/02-ai-computer-use-tech.md)
@@ -122,7 +123,7 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 
 ## Personal KB (6)
 
-- `2026-04-29` [Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+- `2026-05-01` [Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
 - `2026-04-19` [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md)
 - `2026-04-19` [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
 - `2026-04-19` [Ford Prior — Career Deep Research](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-career-deep-research.md)
