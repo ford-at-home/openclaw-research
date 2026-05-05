@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-01T21:39:21Z",
-  "total": 72,
+  "last_synchronized": "2026-05-05T10:11:01Z",
+  "total": 73,
   "content_types": [
     "local-research",
     "personal",
@@ -24,6 +24,7 @@
       "personal/ford-prior.md"
     ],
     "local-research": [
+      "research/china-llm-innovation-strategy.md",
       "research/richmond/underground-neighborhood-cultures.md",
       "research/aws-marketplace-monetization-guide.md",
       "research/synthetic-user-testing/01-existing-platforms.md",
@@ -115,7 +116,7 @@
       "content_type": "personal",
       "category": "personal",
       "subcategory": "",
-      "date": "2026-05-01",
+      "date": "2026-05-05",
       "query": "",
       "processor": "",
       "status": "",
@@ -126,6 +127,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
+    },
+    {
+      "filename": "research/china-llm-innovation-strategy.md",
+      "title": "Chinese large language model innovation strategy 2024-2025 - DeepSeek Qwen Baidu ERNIE Zhipu GLM Moonshot Kimi ByteDance - national AI strategy, government funding, open source vs closed models, compute efficiency breakthroughs, benchmarks vs US models, talent pipeline, regulatory environment, export controls impact, geopolitical context, where China leads and where it lags",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-05",
+      "query": "Chinese large language model innovation strategy 2024-2025 - DeepSeek Qwen Baidu ERNIE Zhipu GLM Moonshot Kimi ByteDance - national AI strategy, government funding, open source vs closed models, compute efficiency breakthroughs, benchmarks vs US models, talent pipeline, regulatory environment, export controls impact, geopolitical context, where China leads and where it lags",
+      "processor": "ultra4x",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480e9300e1bcda60ef77",
+      "page_type": "",
+      "summary": "* **OPEN-WEIGHT COMMODITIZATION:** Chinese AI leaders (DeepSeek, Zhipu, Alibaba, Baidu) are weaponizing permissive open-weight licenses (MIT/Apache 2.0) for frontier-scale models (e.g., GLM-5 745B, Qwen3 235B, ERNIE 4.5) to commoditize the foundation",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/china-llm-innovation-strategy.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/china-llm-innovation-strategy.md"
     },
     {
       "filename": "research/richmond/underground-neighborhood-cultures.md",
