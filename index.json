@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-05T10:11:01Z",
-  "total": 73,
+  "last_synchronized": "2026-05-05T14:16:17Z",
+  "total": 74,
   "content_types": [
     "local-research",
     "personal",
@@ -25,6 +25,7 @@
     ],
     "local-research": [
       "research/china-llm-innovation-strategy.md",
+      "research/health/male-sexual-vitality-strategies.md",
       "research/richmond/underground-neighborhood-cultures.md",
       "research/aws-marketplace-monetization-guide.md",
       "research/synthetic-user-testing/01-existing-platforms.md",
@@ -145,6 +146,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/china-llm-innovation-strategy.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/china-llm-innovation-strategy.md"
+    },
+    {
+      "filename": "research/health/male-sexual-vitality-strategies.md",
+      "title": "Sexual health and vitality strategies used by male adult film performers - physical conditioning, nutrition, supplementation, hormonal health, cardiovascular fitness, mental performance, recovery protocols, industry practices and interviews",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-05",
+      "query": "Sexual health and vitality strategies used by male adult film performers - physical conditioning, nutrition, supplementation, hormonal health, cardiovascular fitness, mental performance, recovery protocols, industry practices and interviews",
+      "processor": "ultra-fast",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480e996a643917c26cfa",
+      "page_type": "",
+      "summary": "* **[PHARMACOLOGICAL DEPENDENCY]:** Nearly every male performer in the adult industry utilizes some form of erectile dysfunction drug (such as Viagra, Cialis, or injections) to get through scenes, regardless of age [1]. This reliance highlights the i",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/health/male-sexual-vitality-strategies.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/health/male-sexual-vitality-strategies.md"
     },
     {
       "filename": "research/richmond/underground-neighborhood-cultures.md",
