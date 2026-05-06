@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-06T07:34:34Z",
-  "total": 76,
+  "last_synchronized": "2026-05-06T07:35:23Z",
+  "total": 77,
   "content_types": [
     "local-research",
     "personal",
@@ -25,6 +25,7 @@
     ],
     "local-research": [
       "research/richmond/commute-traffic-patterns-spring-2026.md",
+      "research/richmond/neighborhoods-chesterfield.md",
       "research/richmond/neighborhoods-richmond-city.md",
       "research/china-llm-innovation-strategy.md",
       "research/health/male-sexual-vitality-strategies.md",
@@ -148,6 +149,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/commute-traffic-patterns-spring-2026.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/commute-traffic-patterns-spring-2026.md"
+    },
+    {
+      "filename": "research/richmond/neighborhoods-chesterfield.md",
+      "title": "Chesterfield County Virginia neighborhood profiles spring 2026 family home search - Bon Air Midlothian Brandermill Woodlake Moseley Chester Chesterfield Courthouse North Chesterfield Robious Hallsley Winterpock Magnolia Green Manchester Hull Street corridor Route 288 corridor Powhite Midlothian corridor - housing stock home age lot patterns family suitability Chesterfield County schools commute patterns walkability parks amenities flood risk price trends buyer competition renovation potential",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-06",
+      "query": "Chesterfield County Virginia neighborhood profiles spring 2026 family home search - Bon Air Midlothian Brandermill Woodlake Moseley Chester Chesterfield Courthouse North Chesterfield Robious Hallsley Winterpock Magnolia Green Manchester Hull Street corridor Route 288 corridor Powhite Midlothian corridor - housing stock home age lot patterns family suitability Chesterfield County schools commute patterns walkability parks amenities flood risk price trends buyer competition renovation potential",
+      "processor": "ultra-fast",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480e88fa8a4bf7d46ce9",
+      "page_type": "",
+      "summary": "For families navigating the Chesterfield County housing market in Spring 2026, the landscape is defined by a sharp bifurcation between established, land-rich northern suburbs and high-density, amenity-heavy southwestern growth corridors. While the co",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/neighborhoods-chesterfield.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/neighborhoods-chesterfield.md"
     },
     {
       "filename": "research/richmond/neighborhoods-richmond-city.md",
