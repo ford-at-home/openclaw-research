@@ -11,13 +11,14 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 | `/research:find-research <query>` | Search the library |
 | `/research:update-index` | Rebuild this file via `scripts/build-index.py` |
 
-**Last indexed:** 2026-05-05 14:16 UTC  
-**Total documents:** 74  
+**Last indexed:** 2026-05-06 07:21 UTC  
+**Total documents:** 75  
 **Content types:** local-research, personal, research, voice-notes, wiki-concept, wiki-entity, wiki-goal, wiki-source, wiki-value, writing
 
 ## Recent additions
 
-- `2026-05-05` **[Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)** — _Personal KB_
+- `2026-05-06` **[Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)** — _Personal KB_
+- `2026-05-06` **[Greater Richmond Virginia commute and traffic patterns spring 2026 home buying guide - Richmond City Henrico County Chesterfield County - I-64 I-95 I-295 Route 288 Powhite Parkway Chippenham Parkway Midlothian Turnpike Hull Street Broad Street Patterson Grove Three Chopt River Road - river crossings bridge bottlenecks Mayo Bridge Lee Bridge Huguenot Bridge - school traffic effects morning vs evening commute asymmetry - Richmond to Henrico Richmond to Chesterfield Henrico to downtown Chesterfield to downtown - VDOT projects toll roads construction delays - neighborhoods with hidden commute friction - commute reliability not just average times - recommended drive test routes before buying - sourced markdown with commute matrices corridor risk ratings field test routes](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/commute-traffic-patterns-spring-2026.md)** — _Local / Topical Research_
 - `2026-05-05` **[Chinese large language model innovation strategy 2024-2025 - DeepSeek Qwen Baidu ERNIE Zhipu GLM Moonshot Kimi ByteDance - national AI strategy, government funding, open source vs closed models, compute efficiency breakthroughs, benchmarks vs US models, talent pipeline, regulatory environment, export controls impact, geopolitical context, where China leads and where it lags](https://github.com/ford-at-home/openclaw-research/blob/main/research/china-llm-innovation-strategy.md)** — _Local / Topical Research_
 - `2026-05-05` **[Sexual health and vitality strategies used by male adult film performers - physical conditioning, nutrition, supplementation, hormonal health, cardiovascular fitness, mental performance, recovery protocols, industry practices and interviews](https://github.com/ford-at-home/openclaw-research/blob/main/research/health/male-sexual-vitality-strategies.md)** — _Local / Topical Research_
 - `2026-05-01` **[Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md)** — _Local / Topical Research_
@@ -26,7 +27,6 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - `2026-04-29` **[Transcript - Mom Memory Box 1](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/mom-memory-box-1.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-29` **[Transcript - RTT SpaceX AMA](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/rtt-spacex-ama.md)** — _Wiki — Sources (voice memos / messages)_
 - `2026-04-29` **[Transcript - Tech Career Narrative](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/source/transcripts/will-tech-career-narrative.md)** — _Wiki — Sources (voice memos / messages)_
-- `2026-04-27` **[Geographic Arc](https://github.com/ford-at-home/openclaw-research/blob/main/wiki/concept/geographic-arc.md)** — _Wiki — Concepts_
 
 ## Research Library (10)
 
@@ -58,8 +58,9 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 - `2026-04-21` [Simulating the Unknown: Architecting Resilient Innovation Labs with Synthetic Traffic and Chaos Engineering](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/testing/2026-04-21-synthetic-data-sandboxes-simulation.md) / testing
 - `2026-04-19` [SpaceX Software Engineering AMA — Falcon, Dragon, Starlink Deep Dive](https://github.com/ford-at-home/openclaw-research/blob/main/software-engineering/architecture/2026-04-19-spacex-software-engineering-ama.md) / architecture
 
-## Local / Topical Research (9)
+## Local / Topical Research (10)
 
+- `2026-05-06` [Greater Richmond Virginia commute and traffic patterns spring 2026 home buying guide - Richmond City Henrico County Chesterfield County - I-64 I-95 I-295 Route 288 Powhite Parkway Chippenham Parkway Midlothian Turnpike Hull Street Broad Street Patterson Grove Three Chopt River Road - river crossings bridge bottlenecks Mayo Bridge Lee Bridge Huguenot Bridge - school traffic effects morning vs evening commute asymmetry - Richmond to Henrico Richmond to Chesterfield Henrico to downtown Chesterfield to downtown - VDOT projects toll roads construction delays - neighborhoods with hidden commute friction - commute reliability not just average times - recommended drive test routes before buying - sourced markdown with commute matrices corridor risk ratings field test routes](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/commute-traffic-patterns-spring-2026.md)
 - `2026-05-05` [Chinese large language model innovation strategy 2024-2025 - DeepSeek Qwen Baidu ERNIE Zhipu GLM Moonshot Kimi ByteDance - national AI strategy, government funding, open source vs closed models, compute efficiency breakthroughs, benchmarks vs US models, talent pipeline, regulatory environment, export controls impact, geopolitical context, where China leads and where it lags](https://github.com/ford-at-home/openclaw-research/blob/main/research/china-llm-innovation-strategy.md)
 - `2026-05-05` [Sexual health and vitality strategies used by male adult film performers - physical conditioning, nutrition, supplementation, hormonal health, cardiovascular fitness, mental performance, recovery protocols, industry practices and interviews](https://github.com/ford-at-home/openclaw-research/blob/main/research/health/male-sexual-vitality-strategies.md)
 - `2026-05-01` [Richmond Virginia underground neighborhood cultures - Church Hill Oregon Hill Manchester Northside Fan Carver Jackson Ward Scott's Addition - DIY scenes, underground music venues, house shows, graffiti, zine culture, skateboarding, river culture, local mythology, oral history, subcultural identity, what locals know that doesn't get published, hidden community spaces, counterculture history, art collectives, underground markets, informal economies, neighborhood pride and tensions](https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/underground-neighborhood-cultures.md)
@@ -125,7 +126,7 @@ Knowledge repository for the OpenClaw AI assistant. Three content systems live h
 
 ## Personal KB (6)
 
-- `2026-05-05` [Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
+- `2026-05-06` [Will Prior](https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md)
 - `2026-04-19` [Bill Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-bill-prior-memory-box-session-1.md)
 - `2026-04-19` [Claire Prior — Memory Box Session 1](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-claire-prior-memory-box-session-1.md)
 - `2026-04-19` [Ford Prior — Career Deep Research](https://github.com/ford-at-home/openclaw-research/blob/main/personal/2026-04-19-ford-prior-career-deep-research.md)

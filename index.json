@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-05T14:16:17Z",
-  "total": 74,
+  "last_synchronized": "2026-05-06T07:21:19Z",
+  "total": 75,
   "content_types": [
     "local-research",
     "personal",
@@ -24,6 +24,7 @@
       "personal/ford-prior.md"
     ],
     "local-research": [
+      "research/richmond/commute-traffic-patterns-spring-2026.md",
       "research/china-llm-innovation-strategy.md",
       "research/health/male-sexual-vitality-strategies.md",
       "research/richmond/underground-neighborhood-cultures.md",
@@ -117,7 +118,7 @@
       "content_type": "personal",
       "category": "personal",
       "subcategory": "",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "query": "",
       "processor": "",
       "status": "",
@@ -128,6 +129,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/personal/will-prior.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/personal/will-prior.md"
+    },
+    {
+      "filename": "research/richmond/commute-traffic-patterns-spring-2026.md",
+      "title": "Greater Richmond Virginia commute and traffic patterns spring 2026 home buying guide - Richmond City Henrico County Chesterfield County - I-64 I-95 I-295 Route 288 Powhite Parkway Chippenham Parkway Midlothian Turnpike Hull Street Broad Street Patterson Grove Three Chopt River Road - river crossings bridge bottlenecks Mayo Bridge Lee Bridge Huguenot Bridge - school traffic effects morning vs evening commute asymmetry - Richmond to Henrico Richmond to Chesterfield Henrico to downtown Chesterfield to downtown - VDOT projects toll roads construction delays - neighborhoods with hidden commute friction - commute reliability not just average times - recommended drive test routes before buying - sourced markdown with commute matrices corridor risk ratings field test routes",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-06",
+      "query": "Greater Richmond Virginia commute and traffic patterns spring 2026 home buying guide - Richmond City Henrico County Chesterfield County - I-64 I-95 I-295 Route 288 Powhite Parkway Chippenham Parkway Midlothian Turnpike Hull Street Broad Street Patterson Grove Three Chopt River Road - river crossings bridge bottlenecks Mayo Bridge Lee Bridge Huguenot Bridge - school traffic effects morning vs evening commute asymmetry - Richmond to Henrico Richmond to Chesterfield Henrico to downtown Chesterfield to downtown - VDOT projects toll roads construction delays - neighborhoods with hidden commute friction - commute reliability not just average times - recommended drive test routes before buying - sourced markdown with commute matrices corridor risk ratings field test routes",
+      "processor": "ultra-fast",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480e9332ab7b44af769a",
+      "page_type": "",
+      "summary": "* **The Toll Trap:** The February 28, 2026, transition to All-Electronic Tolling (AET) on the Powhite Parkway and Downtown Expressway has created a massive cost disparity. Pay-By-Plate rates ($2.00) are more than double the Virginia E-ZPass rate ($0.",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/commute-traffic-patterns-spring-2026.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/commute-traffic-patterns-spring-2026.md"
     },
     {
       "filename": "research/china-llm-innovation-strategy.md",
