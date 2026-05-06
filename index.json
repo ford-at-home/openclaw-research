@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-06T07:37:38Z",
-  "total": 78,
+  "last_synchronized": "2026-05-06T07:50:28Z",
+  "total": 79,
   "content_types": [
     "local-research",
     "personal",
@@ -25,6 +25,7 @@
     ],
     "local-research": [
       "research/richmond/commute-traffic-patterns-spring-2026.md",
+      "research/richmond/housing-market-spring-2026.md",
       "research/richmond/neighborhoods-chesterfield.md",
       "research/richmond/neighborhoods-henrico.md",
       "research/richmond/neighborhoods-richmond-city.md",
@@ -150,6 +151,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/commute-traffic-patterns-spring-2026.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/commute-traffic-patterns-spring-2026.md"
+    },
+    {
+      "filename": "research/richmond/housing-market-spring-2026.md",
+      "title": "Greater Richmond Virginia housing market spring 2026 - Richmond City Henrico County Chesterfield County - median sale prices price trends inventory levels months supply days on market new listings pending sales closed sales price reductions sale-to-list ratios - 3-5 bedroom family homes inventory renovated vs unrenovated new construction vs older stock - buyer competition by submarket seller flexibility stale listings hidden value submarkets where buyers overpaying - seasonal spring 2026 dynamics - sources: Richmond Association of Realtors CVR MLS Virginia Realtors Redfin Zillow Realtor.com local brokerages",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-06",
+      "query": "Greater Richmond Virginia housing market spring 2026 - Richmond City Henrico County Chesterfield County - median sale prices price trends inventory levels months supply days on market new listings pending sales closed sales price reductions sale-to-list ratios - 3-5 bedroom family homes inventory renovated vs unrenovated new construction vs older stock - buyer competition by submarket seller flexibility stale listings hidden value submarkets where buyers overpaying - seasonal spring 2026 dynamics - sources: Richmond Association of Realtors CVR MLS Virginia Realtors Redfin Zillow Realtor.com local brokerages",
+      "processor": "ultra-fast",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480ea328f58a9384cdeb",
+      "page_type": "",
+      "summary": "The Greater Richmond housing market in Spring 2026 has transitioned from a frantic, pandemic-era frenzy into a \"sharp\" and nuanced recovery phase. Driven by mortgage rates easing to an average of 6.30% [1], buyer purchasing power has partially recove",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/housing-market-spring-2026.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/housing-market-spring-2026.md"
     },
     {
       "filename": "research/richmond/neighborhoods-chesterfield.md",
