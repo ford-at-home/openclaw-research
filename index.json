@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-06T07:21:19Z",
-  "total": 75,
+  "last_synchronized": "2026-05-06T07:34:34Z",
+  "total": 76,
   "content_types": [
     "local-research",
     "personal",
@@ -25,6 +25,7 @@
     ],
     "local-research": [
       "research/richmond/commute-traffic-patterns-spring-2026.md",
+      "research/richmond/neighborhoods-richmond-city.md",
       "research/china-llm-innovation-strategy.md",
       "research/health/male-sexual-vitality-strategies.md",
       "research/richmond/underground-neighborhood-cultures.md",
@@ -147,6 +148,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/commute-traffic-patterns-spring-2026.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/commute-traffic-patterns-spring-2026.md"
+    },
+    {
+      "filename": "research/richmond/neighborhoods-richmond-city.md",
+      "title": "Richmond City Virginia neighborhood profiles spring 2026 family home search - The Fan Museum District Near West End Bellevue Ginter Park Northside Forest Hill Westover Hills Stratford Hills Church Hill Union Hill Woodland Heights Byrd Park Carillon Manchester Battery Park Brookland Park Highland Park - housing stock home age lot patterns family suitability schools commute walkability parks amenities flood risk price trends buyer competition renovation potential",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-06",
+      "query": "Richmond City Virginia neighborhood profiles spring 2026 family home search - The Fan Museum District Near West End Bellevue Ginter Park Northside Forest Hill Westover Hills Stratford Hills Church Hill Union Hill Woodland Heights Byrd Park Carillon Manchester Battery Park Brookland Park Highland Park - housing stock home age lot patterns family suitability schools commute walkability parks amenities flood risk price trends buyer competition renovation potential",
+      "processor": "ultra-fast",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480eb0519323bee51ec5",
+      "page_type": "",
+      "summary": "The Spring 2026 Richmond real estate market presents a complex landscape for family homebuyers. While the broader metro area is showing signs of a \"balanced\" reset with a median sales price of $418,880 (a 2.2% year-over-year increase) and sellers rec",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/neighborhoods-richmond-city.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/neighborhoods-richmond-city.md"
     },
     {
       "filename": "research/china-llm-innovation-strategy.md",
