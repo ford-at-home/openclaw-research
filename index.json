@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "last_synchronized": "2026-05-06T07:35:23Z",
-  "total": 77,
+  "last_synchronized": "2026-05-06T07:37:38Z",
+  "total": 78,
   "content_types": [
     "local-research",
     "personal",
@@ -26,6 +26,7 @@
     "local-research": [
       "research/richmond/commute-traffic-patterns-spring-2026.md",
       "research/richmond/neighborhoods-chesterfield.md",
+      "research/richmond/neighborhoods-henrico.md",
       "research/richmond/neighborhoods-richmond-city.md",
       "research/china-llm-innovation-strategy.md",
       "research/health/male-sexual-vitality-strategies.md",
@@ -167,6 +168,24 @@
       "tags": [],
       "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/neighborhoods-chesterfield.md",
       "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/neighborhoods-chesterfield.md"
+    },
+    {
+      "filename": "research/richmond/neighborhoods-henrico.md",
+      "title": "Henrico County Virginia neighborhood profiles spring 2026 family home search - West End Short Pump Glen Allen Wyndham Twin Hickory Innsbrook Tuckahoe Westham Lakeside Dumbarton Varina Sandston Eastern Henrico - housing stock home age lot patterns family suitability Henrico County schools commute patterns walkability parks amenities flood risk price trends buyer competition renovation potential",
+      "content_type": "local-research",
+      "category": "research",
+      "subcategory": "",
+      "date": "2026-05-06",
+      "query": "Henrico County Virginia neighborhood profiles spring 2026 family home search - West End Short Pump Glen Allen Wyndham Twin Hickory Innsbrook Tuckahoe Westham Lakeside Dumbarton Varina Sandston Eastern Henrico - housing stock home age lot patterns family suitability Henrico County schools commute patterns walkability parks amenities flood risk price trends buyer competition renovation potential",
+      "processor": "ultra-fast",
+      "status": "",
+      "confidence": "",
+      "run_id": "trun_3cad0ebea15c480e9d65fed406f23f35",
+      "page_type": "",
+      "summary": "The Spring 2026 Henrico County housing market presents a complex landscape for families, characterized by intense competition in top school zones and shifting value propositions in emerging areas. The countywide median sale price sits at $397,545, wi",
+      "tags": [],
+      "github_url": "https://github.com/ford-at-home/openclaw-research/blob/main/research/richmond/neighborhoods-henrico.md",
+      "raw_url": "https://raw.githubusercontent.com/ford-at-home/openclaw-research/main/research/richmond/neighborhoods-henrico.md"
     },
     {
       "filename": "research/richmond/neighborhoods-richmond-city.md",
